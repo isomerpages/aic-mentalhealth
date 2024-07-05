@@ -23,20 +23,15 @@ sections:
           description: ""
           url: /privacy/
   - infobar:
-      title: Welcome to Real. We are a Safe Space for Mental Heath
-      subtitle: we see you, we get you
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      button: Button Text
+      title: Welcome to Real. We are a Safe Space.
+      subtitle: we see you, we feel you
   - infopic:
-      title: I am map
+      title: Is it real
       id: infopic
-      description: Infopic description
+      description: Don't leave it to guess work, use your self assesment
       button: Button Text
       url: https://www.google.com/maps
       image: /images/hero-banner.png
       alt: Image alt text
+      subtitle: is it real?
 ---
