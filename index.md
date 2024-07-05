@@ -13,14 +13,14 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Conatct Us
+          description: ""
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: About Us
+          description: ""
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: What we do
+          description: ""
           url: /privacy/
   - infobar:
       title: Infobar title
