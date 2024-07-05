@@ -23,11 +23,14 @@ sections:
           description: ""
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Welcome to Real. We are a Safe Space for Mental Heath
+      subtitle: we see you, we get you
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
   - infopic:
       title: I am map
       id: infopic
