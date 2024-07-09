@@ -11,13 +11,16 @@ sections:
       background: /images/good_morning.gif
       url: /contact-us/
       key_highlights:
-        - title: Conatct Us
+        - title: get started
           description: ""
           url: https://google.com
+        - title: Find support
+          description: ""
+          url: ""
         - title: About Us
           description: ""
           url: https://gmail.com
-        - title: What we do
+        - title: extra resources
           description: ""
           url: /privacy/
   - infobar:
