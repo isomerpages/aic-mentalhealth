@@ -24,8 +24,9 @@ sections:
           description: ""
           url: /privacy/
   - infobar:
-      title: Welcome to Real. We are a Safe Space.
-      subtitle: we see you, we feel you
+      title: Welcome to Real.
+      subtitle: We see you, we get you
+      description: We are a safe space for mental health support.
   - infopic:
       title: Is it real
       id: infopic
