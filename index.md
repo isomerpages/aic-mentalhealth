@@ -7,10 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
+      title: IF YOU CAN FEEL IT, IT'S REAL
+      background: /images/good_morning.gif
       url: /contact-us/
       key_highlights:
         - title: Conatct Us
