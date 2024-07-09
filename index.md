@@ -62,7 +62,6 @@ sections:
       image: /images/silver_tabby_cat_sitting_on_green_background_free_photo.jpg
       alt: cat
   - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
+      title: REAL STORIES
       id: resources
 ---
