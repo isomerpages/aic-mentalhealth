@@ -29,10 +29,40 @@ sections:
   - infopic:
       title: Is it real
       id: infopic
-      description: Don't leave it to guess work, use your self assesment
-      button: Button Text
+      description: Don't leave it to guess work, Use our self-assesment tool to figure
+        it out.
+      button: Get assessed
       url: https://www.google.com/maps
-      image: /images/hero-banner.png
+      image: /images/silver_tabby_cat_sitting_on_green_background_free_photo.jpg
+      alt: cat
+  - infopic:
+      title: NOT SURE HOW TO START?
+      id: infopic
+      description: Don't worry, we'll guide you to the next step in your help-seeking
+        journey.
+      button: Get started
+      url: https://www.google.com/search?client=firefox-b-d&q=cat+image#vhid=t654uuOejPehfM&vssid=l
+      image: /images/good_morning.gif
       alt: Image alt text
-      subtitle: is it real?
+  - infopic:
+      title: WHERE CAN I GET GET HELP?
+      id: infopic
+      description: Don't get tough. Get in touch and find the right support.
+      button: Find help
+      url: https://www.google.com/search?client=firefox-b-d&q=cat+image#vhid=t654uuOejPehfM&vssid=l
+      image: /images/silver_tabby_cat_sitting_on_green_background_free_photo.jpg
+      alt: Image alt text
+  - infopic:
+      title: NEED URGENT CARE?
+      id: infopic
+      description: Don't wait it out. Call the Samaritans of Singapore, or get to the
+        nearest A&E.
+      button: SOS
+      url: https://www.google.com/search?client=firefox-b-d&q=cat+image#vhid=t654uuOejPehfM&vssid=l
+      image: /images/silver_tabby_cat_sitting_on_green_background_free_photo.jpg
+      alt: cat
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
