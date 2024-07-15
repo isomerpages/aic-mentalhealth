@@ -10,37 +10,14 @@ sections:
       title: IF YOU CAN FEEL IT, IT'S REAL
       background: /images/good_morning.gif
       url: /contact-us/
-      key_highlights:
-        - title: get started
-          description: ""
-          url: https://google.com
-        - title: Find support
-          description: ""
-          url: ""
-        - title: About Us
-          description: ""
-          url: https://gmail.com
-        - title: extra resources
-          description: ""
-          url: /privacy/
   - infobar:
       title: Welcome to Real.
       subtitle: We see you, we get you
       description: We are a safe space for mental health support.
   - infopic:
-      title: Is it real
-      id: infopic
-      description: Don't leave it to guess work, Use our self-assesment tool to figure
-        it out.
-      button: Get assessed
-      url: https://www.google.com/maps
-      image: /images/silver_tabby_cat_sitting_on_green_background_free_photo.jpg
-      alt: cat
-  - infopic:
       title: NOT SURE HOW TO START?
       id: infopic
-      description: Don't worry, we'll guide you to the next step in your help-seeking
-        journey.
+      description: Don’t worry, we’ll guide you to the mental health support you need.
       button: Get started
       url: https://www.google.com/search?client=firefox-b-d&q=cat+image#vhid=t654uuOejPehfM&vssid=l
       image: /images/good_morning.gif
@@ -54,11 +31,11 @@ sections:
       image: /images/silver_tabby_cat_sitting_on_green_background_free_photo.jpg
       alt: Image alt text
   - infopic:
-      title: NEED URGENT CARE?
+      title: EAGER TO LEARN MORE?
       id: infopic
-      description: Don't wait it out. Call the Samaritans of Singapore, or get to the
-        nearest A&E.
-      button: SOS
+      description: Need mental health information for yourself or your loved ones?
+        We’ve got you covered.
+      button: Resources
       url: https://www.google.com/search?client=firefox-b-d&q=cat+image#vhid=t654uuOejPehfM&vssid=l
       image: /images/silver_tabby_cat_sitting_on_green_background_free_photo.jpg
       alt: cat
