@@ -1,0 +1,4 @@
+collections:
+  completed-pages:
+    output: true
+    order: []
