@@ -2,5 +2,4 @@ collections:
   mock-content-pages:
     output: true
     order:
-      - HOW I GOT HELP FOR MY ANXIETY.md
       - MY REAL STRUGGLE  WITH BIPOLAR  DISORDER.md
