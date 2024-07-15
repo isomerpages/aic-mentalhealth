@@ -5,12 +5,13 @@ variant: tiptap
 description: about us
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="test" src="/images/silver_tabby_cat_sitting_on_green_background_free_photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="we're real and we're here for you" src="/images/Webpage assets/about_us_hero.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/silver_tabby_cat_sitting_on_green_background_free_photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="&quot;just tired lah&quot;, &quot;It's all in your head&quot; said others" src="/images/Webpage assets/about_us_hero_2.png">
 </div>
 <p>Sounds familiar? REAL is trying to change the way we deal with our feelings.
 Your mental health deserves real care and help, not doubts and dismissals.
@@ -26,7 +27,7 @@ education.</p>
 It’s a right.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/silver_tabby_cat_sitting_on_green_background_free_photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="contact us" src="/images/Webpage assets/get_support.png">
 </div>
 <h4>GET REAL SUPPORT FROM REAL EXPERTS</h4>
 <p>Help is out there. Let us connect you to mental health support in your
