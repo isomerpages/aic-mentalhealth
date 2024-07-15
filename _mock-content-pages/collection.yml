@@ -1,4 +1,5 @@
 collections:
   mock-content-pages:
     output: true
-    order: []
+    order:
+      - example-page.md
