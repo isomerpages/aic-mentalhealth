@@ -1,5 +1,4 @@
 collections:
   mock-content-pages:
     output: true
-    order:
-      - MY REAL STRUGGLE  WITH BIPOLAR  DISORDER.md
+    order: []
