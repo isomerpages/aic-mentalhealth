@@ -29,7 +29,7 @@ It’s a right.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="contact us" src="/images/Webpage assets/get_support.png">
 </div>
-<h4>GET REAL SUPPORT FROM REAL EXPERTS</h4>
+<h4><strong>GET REAL SUPPORT FROM REAL EXPERTS</strong></h4>
 <p>Help is out there. Let us connect you to mental health support in your
 neighbourhood.</p>
 <p><a href="https://writtenkitten.co/" rel="noopener noreferrer nofollow" target="_blank">Find Help →</a>
