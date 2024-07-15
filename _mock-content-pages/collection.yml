@@ -1,0 +1,4 @@
+collections:
+  mock-content-pages:
+    output: true
+    order: []
