@@ -2,5 +2,6 @@ collections:
   mock-content-pages:
     output: true
     order:
+      - DEPRESSION REALLY  HURTS, SUPPORT REALLY HELPS.md
       - HOW I GOT HELP FOR MY ANXIETY.md
       - MY REAL STRUGGLE  WITH BIPOLAR  DISORDER.md
