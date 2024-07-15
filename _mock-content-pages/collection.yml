@@ -2,4 +2,5 @@ collections:
   mock-content-pages:
     output: true
     order:
+      - test intergration.md
       - example-page.md
