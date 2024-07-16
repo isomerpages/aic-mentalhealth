@@ -10,7 +10,6 @@ sections:
   - hero:
       background: /images/Webpage assets/hero.png
       variant: center
-      title: Hello there
   - infobar:
       title: Welcome to Real.
       subtitle: We see you, we get you
