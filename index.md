@@ -9,7 +9,7 @@ notification: Need urgent care? Call the Samaritans of Singapore at 1767, or use
 sections:
   - hero:
       background: /images/Webpage assets/hero.png
-      url: /contact-us/
+      variant: image
   - infobar:
       title: Welcome to Real.
       subtitle: We see you, we get you
