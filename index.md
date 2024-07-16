@@ -5,7 +5,7 @@ description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: Need urgent care? Call the Samaritans of Singapore at 1767, or use
-  995 to reach the nearest A&E
+  995 to reach the nearest A&E.
 sections:
   - hero:
       background: /images/Webpage assets/hero.png
