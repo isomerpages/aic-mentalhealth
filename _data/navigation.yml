@@ -2,5 +2,13 @@ logo: /images/Webpage assets/aic_logo.png
 links:
   - title: About Us
     url: /about-us/
-  - title: Contact Us
-    url: /contact-us/
+  - title: find support
+    url: /find-support/
+  - title: Resources
+    url: /resources
+  - title: about us 2
+    url: /about-us-2
+  - title: find support 2
+    url: /find-support-2
+  - title: resources 2
+    url: /resources-2
