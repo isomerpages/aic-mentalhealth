@@ -21,7 +21,7 @@ sections:
       id: infopic
       description: Don’t worry, we’ll guide you to the mental health support you need.
       button: Get started
-      url: https://placehold.co/600x400?text=Placeholder\nLearn+More
+      url: /get-started
       image: /images/Webpage assets/where_to_start.png
       alt: a person who is stuck
   - infopic:
