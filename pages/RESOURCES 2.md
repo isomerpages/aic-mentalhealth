@@ -8,8 +8,8 @@ description: ""
 
 ### **WANT TO LEARN MORE**
 <p style="margin-top:0px;">Follow these links to understand more about mental health.</p>
-<ul style="margin-top:0px;">
-<li style="margin-top:0px;">MindSG by Healthhub</li>
-<li style="margin-top:0px;">Mindline by MOHT</li>
-<li style="margin-top:0px;">AIC mental health page</li>
+<ul style="margin-top:0px;margin-bottom:0px;line-height:2rem">
+<li style="margin-top:0px;margin-bottom:0px;line-height:2rem">MindSG by Healthhub</li>
+<li style="margin-top:0px;margin-bottom:0px;line-height:2rem">Mindline by MOHT</li>
+<li style="margin-top:0px;margin-bottom:0px;line-height:2rem">AIC mental health page</li>
 </ul>
