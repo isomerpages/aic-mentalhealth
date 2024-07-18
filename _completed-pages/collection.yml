@@ -2,6 +2,5 @@ collections:
   completed-pages:
     output: true
     order:
-      - RESOURCES.md
       - FIND SUPPORT.md
       - ABOUT US.md
