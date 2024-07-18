@@ -20,6 +20,6 @@ If you feel it, it’s real. You deserve real support.</p>
 
 ![feel free to contact us for support](/images/Webpage%20assets/get_support.png)
 <h3 style="margin-top:0px;"><strong>GET REAL SUPPORT FROM REAL EXPERTS</strong></h3>
-<p style="margin-top:0px; line-height:1.5rem;">Help is out there. Let us connect you to mental health support in your neighbourhood.</p>
+<p style="margin-top:0px;">Help is out there. Let us connect you to mental health support in your neighbourhood.</p>
 
 <p style="margin-top:0px;"><a target="_blank" href="https://placehold.co/">Find Help →</a> </p>
