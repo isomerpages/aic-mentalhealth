@@ -41,5 +41,5 @@ description: ""
 <ul style="margin-top:0px;margin-bottom:0px;line-height:2rem">
 <li style="margin-top:0px;margin-bottom:0px;line-height:2rem">Check out commonly-asked questions and scenarios <a href="https://placehold.co/600?text=placeholder\nfaq">here</a>.</li>
 <li style="margin-top:0px;margin-bottom:0px;line-height:2rem">Find the nearest community mental health services <a href="https://placehold.co/600?text=placeholder\nfind+nearest+service">here</a>.</li>
-<li style="margin-top:0px;margin-bottom:0px;line-height:2rem">Learn about the top 5 mental health resources <a href="https://placehold.co/600?text=placeholder\ntop+5+resources">here</a>.</li>
+<li style="margin-top:0px;margin-bottom:0px;line-height:2rem">Learn about the top 5 mental health resources <a href="/resources">here</a>.</li>
 </ul>
