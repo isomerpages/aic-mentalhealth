@@ -24,8 +24,8 @@ description: ""
 ### **LOOKING FOR FIRST-STOP SUPPORT?**
 <p style="margin-top:0px;">We’ve got you. We’ve got different types of support available for you.</p>
 <ul style="margin-top:0px;margin-bottom:0px;line-height:2rem">
-<li style="margin-top:0px;margin-bottom:0px;line-height:2rem">If you prefer in-person help, reach out to <a href="https://mindline.sg/youth/mental-health-service-providers/search?type=enquiry-support">Community Outreach Team (CREST)</a>.</li>
-<li style="margin-top:0px;margin-bottom:0px;line-height:2rem">If you prefer digital answers, seek help at <a href="https://mindline.sg/">mindline.sg</a>.</li>
+<li style="margin-top:0px;margin-bottom:0px;line-height:2rem">If you prefer in-person help, reach out to <a target="_blank" href="https://mindline.sg/youth/mental-health-service-providers/search?type=enquiry-support">Community Outreach Team (CREST)</a>.</li>
+<li style="margin-top:0px;margin-bottom:0px;line-height:2rem">If you prefer digital answers, seek help at <a target="_blank" href="https://mindline.sg/">mindline.sg</a>.</li>
 </ul>
 
 
