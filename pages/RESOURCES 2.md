@@ -9,7 +9,7 @@ description: ""
 ### **WANT TO LEARN MORE**
 <p style="margin-top:0px;">Follow these links to understand more about mental health.</p>
 <ul style="margin-top:0px;">
-	<li style="margin-top:0px;">MindSG by Healthhub</li>
-	<li style="margin-top:0px;">Mindline by MOHT</li>
-	<li style="margin-top:0px;">AIC mental health page</li>
+<li style="margin-top:0px;">MindSG by Healthhub</li>
+<li style="margin-top:0px;">Mindline by MOHT</li>
+<li style="margin-top:0px;">AIC mental health page</li>
 </ul>
