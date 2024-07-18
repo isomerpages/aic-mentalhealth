@@ -17,8 +17,8 @@ description: ""
 ### **SHOULD I SEEK SUPPORT?**
 <p style="margin-top:0px;">If you’re not sure, try out these online self-assessment tools.</p>
 <ul style="margin-top:0px;margin-bottom:0px;line-height:2rem">
-<li style="margin-top:0px;margin-bottom:0px;line-height:2rem"><a href="https://placehold.co/600?text=placeholder\nis+it+anxiety?">Is it anxiety?</a></li>
-<li style="margin-top:0px;margin-bottom:0px;line-height:2rem"><a href="https://placehold.co/600?text=placeholder\nis+it+depression?">Is it depression?</a></li>
+<li style="margin-top:0px;margin-bottom:0px;line-height:2rem"><a target="_blank" href="https://placehold.co/600?text=placeholder\nis+it+anxiety?">Is it anxiety?</a></li>
+<li style="margin-top:0px;margin-bottom:0px;line-height:2rem"><a target="_blank" href="https://placehold.co/600?text=placeholder\nis+it+depression?">Is it depression?</a></li>
 </ul>
 
 ### **LOOKING FOR FIRST-STOP SUPPORT?**
