@@ -2,4 +2,5 @@ collections:
   completed-pages:
     output: true
     order:
+      - FIND SUPPORT.md
       - About Us.md
