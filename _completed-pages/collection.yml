@@ -1,5 +1,4 @@
 collections:
   completed-pages:
     output: true
-    order:
-      - ABOUT US.md
+    order: []
