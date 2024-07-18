@@ -32,14 +32,14 @@ description: ""
 ### **NEED URGENT CARE?**
 <p style="margin-top:0px;">Call these 24/7 helplines if you are in distress or need to talk to someone.</p>
 <ul style="margin-top:0px;margin-bottom:0px;line-height:2rem">
-<li style="margin-top:0px;margin-bottom:0px;line-height:2rem">Samaritans of Singapore: <a target="_blank" href="tel:1767">1-767</a> (hotline) or <a target="_blank" href="">9151 1767 (WhatsApp)</a></li>
+<li style="margin-top:0px;margin-bottom:0px;line-height:2rem">Samaritans of Singapore: <a target="_blank" href="tel:1767">1-767</a> (hotline) or <a target="_blank" href="https://api.whatsapp.com/send/?phone=%2B6591511767&amp;text&amp;type=phone_number&amp;app_absent=0">9151 1767 (WhatsApp)</a></li>
 	<li style="margin-top:0px;margin-bottom:0px;line-height:2rem">IMH helpline: <a target="_blank" href="tel:63892000">6389 2000</a></li>
 </ul>
 
 ### **PROGRAMMES &amp; INITIATIVE**
 <p style="margin-top:0px;">Follow these links to understand more about mental health.</p>
 <ul style="margin-top:0px;margin-bottom:0px;line-height:2rem">
-<li style="margin-top:0px;margin-bottom:0px;line-height:2rem">Check out commonly-asked questions and scenarios <a href="https://placehold.co/600?text=placeholder\nfaq">here</a>.</li>
-<li style="margin-top:0px;margin-bottom:0px;line-height:2rem">Find the nearest community mental health services <a href="https://placehold.co/600?text=placeholder\nfind+nearest+service">here</a>.</li>
-<li style="margin-top:0px;margin-bottom:0px;line-height:2rem">Learn about the top 5 mental health resources <a href="https://placehold.co/600?text=placeholder\nTop+5+Resources">here</a>.</li>
+<li style="margin-top:0px;margin-bottom:0px;line-height:2rem">Check out commonly-asked questions and scenarios <a target="_blank" href="https://placehold.co/600?text=placeholder\nfaq">here</a>.</li>
+<li style="margin-top:0px;margin-bottom:0px;line-height:2rem">Find the nearest community mental health services <a target="_blank" href="https://placehold.co/600?text=placeholder\nfind+nearest+service">here</a>.</li>
+<li style="margin-top:0px;margin-bottom:0px;line-height:2rem">Learn about the top 5 mental health resources <a target="_blank" href="https://placehold.co/600?text=placeholder\nTop+5+Resources">here</a>.</li>
 </ul>
