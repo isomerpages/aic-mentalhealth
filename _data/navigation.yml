@@ -2,6 +2,8 @@ logo: /images/Webpage assets/aic_logo.png
 links:
   - title: About Us
     url: /about-us/
+  - title: GET STARTED
+    url: /get-started
   - title: find support
     url: /find-support/
   - title: Resources
