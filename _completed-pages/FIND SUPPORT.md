@@ -9,21 +9,13 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="Find Support" src="/images/Webpage assets/find_support.png">
 </div>
 <p></p>
-<h3><strong>Help is close at hand</strong></h3>
-<p>Find mental health support that suits your needs.</p>
+<h3><strong>HELP IS CLOSE AT HAND</strong><br><sup><sub>Find mental health support that suits your needs.</sub></sup></h3>
 <p></p>
-<h3><strong>If you’re not sure&nbsp;</strong></h3>
-<p><a href="https://mindline.sg/youth/mental-health-service-providers/search?type=enquiry-support" rel="noopener noreferrer nofollow" target="_blank">Reach out to your nearest Community Outreach Team (CREST) →</a>
-</p>
+<h3><strong>IF YOU ARE NOT SURE</strong><br><a href="https://mindline.sg/youth/mental-health-service-providers/search?type=enquiry-support" rel="noopener noreferrer nofollow" target="_blank"><sup><sub>Reach out to your nearest Community Outreach Team (CREST) →</sub></sup></a></h3>
 <p></p>
-<h3><strong>If you need a counsellor/therapist</strong></h3>
-<p><a href="https://mindline.sg/youth/mental-health-service-providers/search?type=therapy-counselling" rel="noopener noreferrer nofollow" target="_blank">Reach out to your nearest Community Intervention Team (COMIT) →</a>
-</p>
+<h3><strong>IF YOU NEED A COUNSELLOR/ THERAPIST</strong><br><a href="https://mindline.sg/youth/mental-health-service-providers/search?type=therapy-counselling" rel="noopener noreferrer nofollow" target="_blank"><sup><sub>Reach out to your nearest Community Intervention Team (COMIT) →</sub></sup></a></h3>
 <p></p>
-<h3><strong>If you want to seek medical support</strong></h3>
-<p><a href="https://mindline.sg/youth/mental-health-service-providers/search?type=medical-advice" rel="noopener noreferrer nofollow" target="_blank">Reach out to your nearest GP/Polyclinic →</a>
-</p>
+<h3><strong>IF YOU WANT TO SEEK MEDICAL SUPPORT</strong><br><a href="https://mindline.sg/youth/mental-health-service-providers/search?type=medical-advice" rel="noopener noreferrer nofollow" target="_blank"><sup><sub>Reach out to your nearest GP/Polyclinic →</sub></sup></a></h3>
 <p></p>
-<h3><strong>Want to know more?</strong></h3>
-<p><a href="https://placehold.co/" rel="noopener noreferrer nofollow" target="_blank">Learn more about community support →</a>
-</p>
+<h3><strong>WANT TO KNOW MORE</strong><br><a href="https://placehold.co/" rel="noopener noreferrer nofollow" target="_blank"><sup><sub>Learn more about community support →</sub></sup></a></h3>
+<p></p>
