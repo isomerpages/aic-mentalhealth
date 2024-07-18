@@ -2,7 +2,7 @@ collections:
   completed-pages:
     output: true
     order:
-      - TEST LEGACY EDITOR.md
+      - ABOUT US 2.md
       - RESOURCES.md
       - FIND SUPPORT.md
       - ABOUT US.md
