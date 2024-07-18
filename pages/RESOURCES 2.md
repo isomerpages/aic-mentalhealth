@@ -32,7 +32,7 @@ description: ""
 ### **NEED URGENT CARE?**
 <p style="margin-top:0px;">Call these 24/7 helplines if you are in distress or need to talk to someone.</p>
 <ul style="margin-top:0px;margin-bottom:0px;line-height:2rem">
-	<li style="margin-top:0px;margin-bottom:0px;line-height:2rem">Samaritans of Singapore: <a href="tel:1767">1-767</a> (hotline) or <a href="">9151 1767 (WhatsApp)</a></li>
+<li style="margin-top:0px;margin-bottom:0px;line-height:2rem">Samaritans of Singapore: <a target="_blank" href="tel:1767">1-767</a> (hotline) or <a href="">9151 1767 (WhatsApp)</a></li>
 	<li style="margin-top:0px;margin-bottom:0px;line-height:2rem">IMH helpline: <a href="tel:63892000">6389 2000</a></li>
 </ul>
 
