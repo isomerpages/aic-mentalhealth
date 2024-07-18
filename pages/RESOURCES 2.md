@@ -10,8 +10,8 @@ description: ""
 <p style="margin-top:0px;">Follow these links to understand more about mental health.</p>
 <ul style="margin-top:0px;margin-bottom:0px;line-height:2rem">
 <li style="margin-top:0px;margin-bottom:0px;line-height:2rem"><a target="_blank" href="https://www.healthhub.sg/programmes/mindsg/discover#home">MindSG by Healthhub</a></li>
-<li style="margin-top:0px;margin-bottom:0px;line-height:2rem"><a href="https://mindline.sg/">Mindline by MOHT</a></li>
-<li style="margin-top:0px;margin-bottom:0px;line-height:2rem"><a href="https://www.aic.sg/caregiving/helpful-online-tools-for-mental-health/">health page</a>
+<li target="_blank" style="margin-top:0px;margin-bottom:0px;line-height:2rem"><a href="https://mindline.sg/">Mindline by MOHT</a></li>
+<li target="_blank" style="margin-top:0px;margin-bottom:0px;line-height:2rem"><a href="https://www.aic.sg/caregiving/helpful-online-tools-for-mental-health/">health page</a>
 </li></ul>
 
 ### **SHOULD I SEEK SUPPORT?**
