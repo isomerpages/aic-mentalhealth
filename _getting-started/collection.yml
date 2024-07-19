@@ -2,4 +2,5 @@ collections:
   getting-started:
     output: true
     order:
+      - TYPES OF MENTAL HEALTH SUPPORT.md
       - A GUIDE TO MENTAL HEALTH SUPPORT.md
