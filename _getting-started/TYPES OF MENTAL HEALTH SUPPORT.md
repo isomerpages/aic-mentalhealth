@@ -34,7 +34,7 @@ be recommended.</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">They are not meant as a cure-all</div>
+<div class="isomer-card-title">They are not meant as a cure-all.</div>
 <div class="isomer-card-description">However, they are not meant as a cure-all, but can help manage mental
 health conditions.</div>
 </div>
