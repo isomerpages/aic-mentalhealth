@@ -14,13 +14,11 @@ depending on your needs:</p>
 <h4><strong>Counselling</strong></h4>
 <p>Helps you cope with issues and solve problems such as academic stress,
 relationship issues, and major life changes.</p>
-<p></p>
 <h4><strong>Psychotherapy</strong></h4>
 <p>Helps you understand and change unhelpful patterns of thought, feelings,
 and behaviours to treat specific mental health conditions and disorders.</p>
 <p><a href="https://placehold.co/600x400?text=Placeholder\nLearn+More+About+Psychotherapy" rel="noopener noreferrer nofollow" target="_blank">Learn more about psychotherapy here</a>
 </p>
-<p></p>
 <h4><strong>Specialist Services*</strong></h4>
 <p>For individuals with more intensive mental health concerns, treatments
 like psychiatric medicine, rehabilitation, or emergency services might
@@ -54,6 +52,7 @@ your own mental health journey.</div>
 </div>
 </div>
 </div>
+<p></p>
 <h3><strong>DURATION OF TREATMENT</strong></h3>
 <p>The length of treatment varies from one person to another and is usually
 dependent on the nature and severity of your mental health condition. Here
