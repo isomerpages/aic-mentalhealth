@@ -66,3 +66,28 @@ upon with your therapist or doctor.</p>
 </li>
 </ul>
 <p></p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">They are not meant as a cure-all</div>
+<div class="isomer-card-description">However, they are not meant as a cure-all, but can help manage mental
+health conditions.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">There is no one-size-fits-all approach to treatment.</div>
+<div class="isomer-card-description">The same medication or therapy that works for someone else may not be
+effective for you.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Different people may take different amounts of time to recover.</div>
+<div class="isomer-card-description">Don’t let other people's recovery process demoralise you or influence
+your own mental health journey.</div>
+</div>
+</div>
+</div>
+<p></p>
