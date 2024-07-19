@@ -4,9 +4,8 @@ permalink: /resources/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Find Resources" src="/images/Webpage assets/resources_hero.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/image_4_.png">
 </div>
 <p></p>
 <h3><strong>WANT TO LEARN MORE</strong></h3>
