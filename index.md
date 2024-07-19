@@ -2,7 +2,7 @@
 layout: homepage
 title: Consortium for Clinical Research and Innovation Singapore (CRIS)
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/Webpage assets/logo.svg
 permalink: /
 notification: Need urgent care? Call the Samaritans of Singapore at 1767, or use
   995 to reach the nearest A&E.
