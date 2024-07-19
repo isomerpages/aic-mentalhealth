@@ -4,15 +4,17 @@ permalink: /types-of-mental-health-support-2/
 variant: markdown
 description: ""
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/types_of_mental_health_support_hero.png">
-</div>
+
+![](/images/Webpage%20assets/types_of_mental_health_support_hero.png)
 <p>Broadly, there are three types of mental health support that are available,
 depending on your needs:</p>
-<h4><strong>Counselling</strong></h4>
+
+<a href="#anchor">jump to specialist</a>
+
+#### **Counselling**
 <p>Helps you cope with issues and solve problems such as academic stress,
 relationship issues, and major life changes.</p>
+
 <h4><strong>Psychotherapy</strong></h4>
 <p>Helps you understand and change unhelpful patterns of thought, feelings,
 and behaviours to treat specific mental health conditions and disorders.</p>
@@ -54,7 +56,7 @@ your own mental health journey.</div>
 </div>
 </div>
 <p></p>
-<h3><strong>DURATION OF TREATMENT</strong></h3>
+<h3 id="anchor"><strong>DURATION OF TREATMENT</strong></h3>
 <p>The length of treatment varies from one person to another and is usually
 dependent on the nature and severity of your mental health condition. Here
 are some important things to consider when undergoing treatment:</p>
