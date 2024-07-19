@@ -2,5 +2,6 @@ collections:
   alternate-versions:
     output: true
     order:
+      - FIND SUPPORT 2.md
       - RESOURCES 2.md
       - ABOUT US 2.md
