@@ -2,4 +2,5 @@ collections:
   alternate-versions:
     output: true
     order:
+      - RESOURCES 2.md
       - ABOUT US 2.md
