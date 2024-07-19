@@ -2,5 +2,6 @@ collections:
   getting-started:
     output: true
     order:
+      - COMMON TYPES OF TREATMENT.md
       - A GUIDE TO MENTAL HEALTH SUPPORT.md
       - TYPES OF MENTAL HEALTH SUPPORT.md
