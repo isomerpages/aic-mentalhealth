@@ -10,7 +10,6 @@ description: ""
 </div>
 <p>Broadly, there are three types of mental health support that are available,
 depending on your needs:</p>
-<p></p>
 <h4><strong>Counselling</strong></h4>
 <p>Helps you cope with issues and solve problems such as academic stress,
 relationship issues, and major life changes.</p>
