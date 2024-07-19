@@ -2,6 +2,7 @@ collections:
   getting-started:
     output: true
     order:
+      - FINANCIAL SUPPORT FOR MENTAL HEALTH.md
       - FIND SUPPORT WITHIN YOUR COMMUNITY.md
       - COMMON TYPES OF TREATMENT.md
       - A GUIDE TO MENTAL HEALTH SUPPORT.md
