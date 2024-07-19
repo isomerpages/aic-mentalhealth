@@ -8,9 +8,5 @@ links:
     url: /find-support/
   - title: Resources
     url: /resources
-  - title: about us 2
-    url: /about-us-2
-  - title: find support 2
-    url: /find-support-2
-  - title: resources 2
-    url: /resources-2
+  - title: Alternate Pages
+    collection: alternate-versions
