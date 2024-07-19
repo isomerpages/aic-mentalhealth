@@ -15,17 +15,20 @@ depending on your needs:</p>
 <p>Helps you cope with issues and solve problems such as academic stress,
 relationship issues, and major life changes.</p>
 <p></p>
-<p>Psychotherapy</p>
+<h4><strong>Psychotherapy</strong></h4>
 <p>Helps you understand and change unhelpful patterns of thought, feelings,
 and behaviours to treat specific mental health conditions and disorders.</p>
-<p>Learn more about psychotherapy here</p>
+<p><a href="https://placehold.co/600x400?text=Placeholder\nLearn+More+About+Psychotherapy" rel="noopener noreferrer nofollow" target="_blank">Learn more about psychotherapy here</a>
+</p>
 <p></p>
-<p>Specialist Services*</p>
+<h4><strong>Specialist Services*</strong></h4>
 <p>For individuals with more intensive mental health concerns, treatments
 like psychiatric medicine, rehabilitation, or emergency services might
 be recommended.</p>
-<p>*Parental consent is required for these services if you’re 18 or younger&nbsp;</p>
-<p>Learn more about psychiatric medicine here</p>
+<p><em>*Parental consent is required for these services if you’re 18 or younger&nbsp;</em>
+</p>
+<p><a href="https://placehold.co/600x400?text=Placeholder\nLearn+More+About+Psychiatric+Medicine" rel="noopener noreferrer nofollow" target="_blank">Learn more about psychiatric medicine here</a>
+</p>
 <p></p>
 <h4><strong>There are three key things you should note about mental health treatments:</strong></h4>
 <div class="isomer-card-grid">
@@ -75,27 +78,4 @@ upon with your therapist or doctor.</p>
 </ul>
 <p></p>
 <p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">They are not meant as a cure-all</div>
-<div class="isomer-card-description">However, they are not meant as a cure-all, but can help manage mental
-health conditions.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">There is no one-size-fits-all approach to treatment.</div>
-<div class="isomer-card-description">The same medication or therapy that works for someone else may not be
-effective for you.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Different people may take different amounts of time to recover.</div>
-<div class="isomer-card-description">Don’t let other people's recovery process demoralise you or influence
-your own mental health journey.</div>
-</div>
-</div>
-</div>
 <p></p>
