@@ -1,4 +1,5 @@
 collections:
   alternate-versions:
     output: true
-    order: []
+    order:
+      - ABOUT US 2.md
