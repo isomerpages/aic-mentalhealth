@@ -2,7 +2,6 @@ collections:
   draft:
     output: true
     order:
-      - GET STARTED (WIP).md
       - OUR PROGRAMMES (WIP).md
       - terms-of-use.md
       - privacy.md
