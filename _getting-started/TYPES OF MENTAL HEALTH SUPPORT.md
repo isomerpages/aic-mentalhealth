@@ -27,22 +27,30 @@ be recommended.</p>
 <p>*Parental consent is required for these services if you’re 18 or younger&nbsp;</p>
 <p>Learn more about psychiatric medicine here</p>
 <p></p>
-<p>There are three key things you should note about mental health treatments:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>They are not meant as a cure-all, but can help manage mental health conditions.</p>
-</li>
-<li>
-<p>There is no one-size-fits-all approach to treatment. The same medication
-or therapy that works for someone else may not be effective for you.</p>
-</li>
-<li>
-<p>Different people may take different amounts of time to recover. Don’t
-let other people's recovery process demoralise you or influence your own
-mental health journey.</p>
-</li>
-</ol>
-<p></p>
+<h4><strong>There are three key things you should note about mental health treatments:</strong></h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">They are not meant as a cure-all</div>
+<div class="isomer-card-description">However, they are not meant as a cure-all, but can help manage mental
+health conditions.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">There is no one-size-fits-all approach to treatment.</div>
+<div class="isomer-card-description">The same medication or therapy that works for someone else may not be
+effective for you.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Different people may take different amounts of time to recover.</div>
+<div class="isomer-card-description">Don’t let other people's recovery process demoralise you or influence
+your own mental health journey.</div>
+</div>
+</div>
+</div>
 <h3><strong>DURATION OF TREATMENT</strong></h3>
 <p>The length of treatment varies from one person to another and is usually
 dependent on the nature and severity of your mental health condition. Here
