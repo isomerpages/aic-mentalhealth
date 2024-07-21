@@ -2,8 +2,6 @@ collections:
   getting-started:
     output: true
     order:
-      - Sub folder/third level page.md
-      - Sub folder/.keep
       - A GUIDE TO MENTAL HEALTH SUPPORT.md
       - TYPES OF MENTAL HEALTH SUPPORT.md
       - COMMON TYPES OF TREATMENT.md
