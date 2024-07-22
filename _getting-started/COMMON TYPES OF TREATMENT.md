@@ -59,11 +59,9 @@ body temperature, tremors, or muscle rigidity.</p>
 <li>
 <p>Fever with rashes or painful blisters on the skin or inside of your lips,
 eyelids, and/or nose.</p>
-<p></p>
 </li>
 </ul>
-<blockquote>
-<p><em><sub>Parental consent is required for psychiatric medication if you’re 18 or younger. Your healthcare professional will work with you on how to involve your parents if need be.</sub></em>
+<p></p>
+<p><em>Parental consent is required for psychiatric medication if you’re 18 or younger. Your healthcare professional will work with you on how to involve your parents if need be.</em>
 </p>
-</blockquote>
 <p></p>
