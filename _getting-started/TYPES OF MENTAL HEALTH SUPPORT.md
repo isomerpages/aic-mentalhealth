@@ -16,7 +16,7 @@ relationship issues, and major life changes.</p>
 <h4><strong>Psychotherapy</strong></h4>
 <p>Helps you understand and change unhelpful patterns of thought, feelings,
 and behaviours to treat specific mental health conditions and disorders.</p>
-<p><a href="https://placehold.co/600x400?text=Placeholder\nLearn+More+About+Psychotherapy" rel="noopener noreferrer nofollow" target="_blank">Learn more about psychotherapy here</a>
+<p><a href="/common-types-of-treatment" rel="noopener noreferrer nofollow" target="_blank">Learn more about psychotherapy here</a>
 </p>
 <h4><strong>Specialist Services*</strong></h4>
 <p>For individuals with more intensive mental health concerns, treatments
@@ -24,7 +24,7 @@ like psychiatric medicine, rehabilitation, or emergency services might
 be recommended.</p>
 <p><em>*Parental consent is required for these services if you’re 18 or younger&nbsp;</em>
 </p>
-<p><a href="https://placehold.co/600x400?text=Placeholder\nLearn+More+About+Psychiatric+Medicine" rel="noopener noreferrer nofollow" target="_blank">Learn more about psychiatric medicine here</a>
+<p><a href="/common-types-of-treatment" rel="noopener noreferrer nofollow" target="_blank">Learn more about psychiatric medicine here</a>
 </p>
 <p></p>
 <h4><strong>There are three key things you should note about mental health treatments:</strong></h4>
