@@ -22,10 +22,8 @@ and behaviours to treat specific mental health conditions and disorders.</p>
 <p>For individuals with more intensive mental health concerns, treatments
 like psychiatric medicine, rehabilitation, or emergency services might
 be recommended.</p>
-<blockquote>
-<p><em><sub>*Parental consent is required for these services if you’re 18 or younger&nbsp;</sub></em>
+<p><em>*Parental consent is required for these services if you’re 18 or younger&nbsp;</em>
 </p>
-</blockquote>
 <p><a href="https://placehold.co/600x400?text=Placeholder\nLearn+More+About+Psychiatric+Medicine" rel="noopener noreferrer nofollow" target="_blank">Learn more about psychiatric medicine here</a>
 </p>
 <p></p>
