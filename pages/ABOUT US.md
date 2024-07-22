@@ -34,6 +34,4 @@ It’s a right.</p>
 neighbourhood.</p>
 <p><a href="/find-support" rel="noopener noreferrer nofollow" target="_blank">Find Help</a>
 </p>
-<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">local-link</a>
-</p>
 <p></p>
