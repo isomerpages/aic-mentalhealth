@@ -8,7 +8,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/image_4_.png">
 </div>
 <p></p>
-<h3><strong>WANT TO LEARN MORE</strong></h3>
+<h3><strong>WANT TO LEARN MORE?</strong></h3>
 <p>Follow these links to understand more about mental health.</p>
 <ul data-tight="true" class="tight">
 <li>
