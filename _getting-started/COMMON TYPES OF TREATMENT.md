@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/common_types_of_treatment_hero.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/common_types_of_treatment.png">
 </div>
 <h3><strong>PSYCHOTHERAPIES</strong></h3>
 <p>Psychotherapy can be used to treat mental health conditions alone or can
