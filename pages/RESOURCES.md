@@ -4,10 +4,10 @@ permalink: /resources/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/image_4_.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/resources_hero.png">
+</div>
 <h3><strong>WANT TO LEARN MORE?</strong></h3>
 <p>Follow these links to understand more about mental health.</p>
 <ul data-tight="true" class="tight">
@@ -29,11 +29,11 @@ description: ""
 <p>If you’re not sure, try out these online self-assessment tools.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://placehold.co/600?text=placeholder\nis+it+anxiety?" rel="noopener noreferrer nofollow" target="_blank">Is it anxiety?</a>
+<p><a href="https://www.healthhub.sg/programmes/mindsg/caring-for-ourselves/dealing-with-anxiety-disorder-adults#self-assessment-home" rel="noopener noreferrer nofollow" target="_blank">Is it anxiety?</a>
 </p>
 </li>
 <li>
-<p><a href="https://placehold.co/600?text=placeholder\nis+it+depression?" rel="noopener noreferrer nofollow" target="_blank">Is it depression?</a>
+<p><a href="https://www.healthhub.sg/programmes/mindsg/caring-for-ourselves/understanding-depression-adults#self-assessment-home" rel="noopener noreferrer nofollow" target="_blank">Is it depression?</a>
 </p>
 </li>
 </ul>
