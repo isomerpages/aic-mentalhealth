@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/types_of_mental_health_support_hero.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/types_of_mental_health_support.png">
 </div>
 <p>Broadly, there are three types of mental health support that are available,
 depending on your needs:</p>
