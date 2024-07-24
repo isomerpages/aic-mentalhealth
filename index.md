@@ -45,4 +45,5 @@ sections:
   - resources:
       title: REAL STORIES
       id: resources
+      button: Read more stories
 ---
