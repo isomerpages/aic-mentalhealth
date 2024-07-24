@@ -13,21 +13,21 @@ description: ""
 <p></p>
 <p></p>
 <h3><strong>IF YOU ARE NOT SURE</strong></h3>
-<p><a href="https://mindline.sg/youth/mental-health-service-providers/search?type=enquiry-support" rel="noopener noreferrer nofollow" target="_blank">Reach out to your nearest Community Outreach Team (CREST)</a>
+<p><a href="https://mindline.sg/youth/mental-health-service-providers/search?type=enquiry-support" rel="noopener noreferrer nofollow" target="_blank">REACH OUT TO YOUR NEAREST COMMUNITY OUTREACH TEAM (CREST)</a>
 </p>
 <p></p>
 <p></p>
 <h3><strong>IF YOU NEED A COUNSELLOR/ THERAPIST</strong></h3>
-<p><a href="https://mindline.sg/youth/mental-health-service-providers/search?type=therapy-counselling" rel="noopener noreferrer nofollow" target="_blank">Reach out to your nearest Community Intervention Team (COMIT)</a>
+<p><a href="https://mindline.sg/youth/mental-health-service-providers/search?type=therapy-counselling" rel="noopener noreferrer nofollow" target="_blank">REACH OUT TO YOUR NEAREST COMMUNITY INTERVENTION TEAM (COMIT)</a>
 </p>
 <p></p>
 <p></p>
 <h3><strong>IF YOU WANT TO SEEK MEDICAL SUPPORT</strong></h3>
-<p><a href="https://mindline.sg/youth/mental-health-service-providers/search?type=medical-advice" rel="noopener noreferrer nofollow" target="_blank">Reach out to your nearest GP/Polyclinic</a>
+<p><a href="https://mindline.sg/youth/mental-health-service-providers/search?type=medical-advice" rel="noopener noreferrer nofollow" target="_blank">REACH OUT TO YOUR NEAREST GP/POLYCLINIC</a>
 </p>
 <p></p>
 <p></p>
 <h3><strong>WANT TO KNOW MORE?</strong></h3>
-<p><a href="/find-support-within-your-community/" rel="noopener noreferrer nofollow" target="_blank">Learn more about community support</a>
+<p><a href="/find-support-within-your-community/" rel="noopener noreferrer nofollow" target="_blank">LEARN MORE ABOUT COMMUNITY SUPPORT</a>
 </p>
 <p></p>
