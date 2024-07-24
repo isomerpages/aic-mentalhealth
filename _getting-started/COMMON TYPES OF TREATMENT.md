@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/common_types_of_treatment_hero.png">
 </div>
-<h3><strong>Psychotherapies</strong></h3>
+<h3><strong>PSYCHOTHERAPIES</strong></h3>
 <p>Psychotherapy can be used to treat mental health conditions alone or can
 be accompanied by psychiatric medications. Common psychotherapies include:</p>
 <h4><strong>Cognitive Behavioural Therapy</strong></h4>
@@ -25,7 +25,7 @@ or events.</p>
 <p>Client-centred therapy enables self-discovery and self-acceptance that
 leads towards healing, growth, and self-actualisation.</p>
 <p></p>
-<h3><strong>Psychiatric Medications</strong></h3>
+<h3><strong>PSYCHIATRIC MEDICATIONS</strong></h3>
 <p>Depending on your mental health condition, your doctor may prescribe different
 medications to help manage your condition and symptoms. These medications
 can also help make therapy more effective when done concurrently.</p>
