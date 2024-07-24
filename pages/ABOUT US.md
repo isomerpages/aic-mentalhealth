@@ -26,8 +26,9 @@ education.</p>
 <p>Enabling a tomorrow where access to mental health doesn’t have to be earned.
 It’s a right.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="contact us" src="/images/Webpage assets/get_support.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/get_real_support.png">
 </div>
 <h3><strong>GET REAL SUPPORT FROM REAL EXPERTS</strong></h3>
 <p>Help is out there. Let us connect you to mental health support in your
