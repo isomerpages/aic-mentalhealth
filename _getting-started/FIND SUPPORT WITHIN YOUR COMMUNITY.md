@@ -4,11 +4,9 @@ permalink: /find-support-within-your-community/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/financial_support_for_mental_health_hero.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/find_support_within_your_community.png">
 </div>
-<p></p>
 <p>There are many services within your community that can support you on
 your mental health journey. Many social service agencies provide support
 that are fully funded by the government, while some may charge a nominal
