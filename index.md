@@ -14,7 +14,7 @@ sections:
   - infobar:
       title: Welcome to Real.
       subtitle: We see you, we get you
-      description: We are a safe space for mental health support.
+      description: We’re a safe space that connects you to mental health support.
       button: About us
       url: /about-us
   - infopic:
