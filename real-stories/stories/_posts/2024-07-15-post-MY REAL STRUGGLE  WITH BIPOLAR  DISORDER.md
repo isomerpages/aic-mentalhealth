@@ -7,4 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>A placeholder content page</p>
+<p></p>
