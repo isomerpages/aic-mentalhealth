@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/guide_to_mental_health_support_hero.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/a_guide_to_mental_health_support_hero.png">
 </div>
 <p>If you feel it, it’s real. No problem is too small and your feelings shouldn’t
 be dismissed when it comes to your mental wellbeing. Even if you’re unsure
