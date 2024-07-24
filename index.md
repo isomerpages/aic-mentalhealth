@@ -22,7 +22,7 @@ sections:
       id: infopic
       description: Don’t worry, we’ll guide you to the mental health support you need.
       button: Get started
-      url: /get-started
+      url: /a-guide-to-mental-health-support
       image: /images/Webpage assets/where_to_start.png
       alt: a person who is stuck
   - infopic:
