@@ -6,9 +6,8 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/financial_support_for_mental_health_hero.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/financial_support_for_mental_health.png">
 </div>
-<p></p>
 <p>You may be worried about the cost for mental health treatment, but services
 provided by social service agencies (CREST, CREST-Youth, COMIT, and YIT)
 are fully funded by the government and are free of charge. Although some
