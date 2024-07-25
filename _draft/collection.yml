@@ -2,7 +2,6 @@ collections:
   draft:
     output: true
     order:
-      - OUR PROGRAMMES (WIP).md
       - Terms of Use.md
       - Privacy Statement.md
       - faq.md
