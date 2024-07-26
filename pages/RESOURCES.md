@@ -61,16 +61,13 @@ description: ""
 </li>
 </ul>
 <p></p>
-<h3><strong>PROGRAMMES &amp; INITIATIVE</strong></h3>
+<h3><strong>Additional Reading</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Check out commonly-asked questions and scenarios <a href="https://placehold.co/600?text=placeholder\nfaq" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Find the nearest community mental health services <a href="https://www.aic.sg/wp-content/uploads/2023/06/Mind-Matters-Resource-Directory-Listings.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </li>
 <li>
-<p>Find the nearest community mental health services <a href="https://placehold.co/600?text=placeholder\nfind+nearest+service" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-</li>
-<li>
-<p>Learn about the top 5 mental health resources <a href="https://placehold.co/600?text=placeholder\ntop+5+resources" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Learn how AIC is championing mental health in Singapore <a href="https://www.aic.sg/wp-content/uploads/2024/05/AIC-Community-Mental-Health-Masterplan-Coffeetable-Book.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </li>
 </ul>
 <p></p>
