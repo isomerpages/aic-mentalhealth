@@ -16,11 +16,11 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="https://mindline.sg/" rel="noopener noreferrer nofollow" target="_blank">Mindline by MOHT</a>
+<p><a href="https://mindline.sg/" rel="noopener noreferrer nofollow" target="_blank">Mindline by MOH Office for Healthcare Transformation (MOHT)</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.aic.sg/caregiving/helpful-online-tools-for-mental-health/" rel="noopener noreferrer nofollow" target="_blank">AIC mental health page</a>
+<p><a href="https://www.aic.sg/caregiving/helpful-online-tools-for-mental-health/" rel="noopener noreferrer nofollow" target="_blank">Agency for Integrated Care (AIC) mental health page</a>
 </p>
 </li>
 </ul>
