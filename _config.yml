@@ -53,7 +53,7 @@ staging: https://staging-lite.d16ie9v1oj6crq.amplifyapp.com
 prod: https://master.d1e9g40hlag6o0.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/Webpage assets/logo.svg
-is_government: true
+is_government: false
 google_analytics_ga4: G-GFJTFV8L68
 linkedin-insights: ""
 resources_name: real-stories
