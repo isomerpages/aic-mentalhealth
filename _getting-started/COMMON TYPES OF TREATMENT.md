@@ -65,3 +65,13 @@ eyelids, and/or nose.</p>
 <p><em>Parental consent is required for psychiatric medication if you’re 18 or younger. Your healthcare professional will work with you on how to involve your parents if need be.</em>
 </p>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Parental consent is required for psychiatric medication if you’re 18 or
+younger. Your healthcare professional will work with you on how to involve
+your parents if need be.</div>
+</div>
+</div>
+</div>
+<p></p>
