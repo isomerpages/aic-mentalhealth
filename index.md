@@ -194,7 +194,7 @@ notification: Need urgent care? Call the Samaritans of Singapore at 1767, or use
   995 to reach the nearest A&E.
 sections:
   - hero:
-      background: /images/Webpage assets/hero.png
+      background: /images/Webpage assets/home_hero.png
       variant: image
       title: \
   - infobar:
