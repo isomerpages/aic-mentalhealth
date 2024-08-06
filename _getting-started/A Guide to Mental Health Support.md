@@ -18,8 +18,8 @@ it. Know that help is always within reach.</p>
 or feelings of uncertainty, or even if it’s to just help them understand
 how they can support your mental wellbeing.</p>
 <p>If you prefer to share your feelings with others who might be experiencing
-the same thing, you can reach out to anonymous online support groups like
-Limitless’ Safehouse.&nbsp;</p>
+the same thing, you can reach out to online support groups like <a href="https://www.iash.sg/mental-health-discord-singapore" rel="noopener noreferrer nofollow" target="_blank">IASH.SG Youth Discord Server</a> and
+<a href="https://huddleverse.io/" rel="noopener noreferrer nofollow" target="_blank">Huddleverse</a>.</p>
 <p>If you’re unsure about the type of support you need, you can speak to
 a social worker from your nearby Community Outreach Teams like CREST/CREST-Youth
 who will advise you. You can also consult your General Practitioner (GP)
@@ -31,6 +31,4 @@ possible treatment.</p>
 Your health records cannot be shared without your permission. The only
 exception to this rule is when it’s ordered by a court of law, or if there’s
 a need to prevent harm to yourself or to others.&nbsp;&nbsp;</p>
-<p></p>
-<p></p>
 <p></p>
