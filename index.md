@@ -210,7 +210,7 @@ sections:
       button: Get started
       url: /a-guide-to-mental-health-support
       image: /images/Webpage assets/a_guide_to_mental_health_support_hero.png
-      alt: a person who is stuck
+      alt: people who are stuck
   - infopic:
       title: WHERE CAN I GET GET HELP?
       id: infopic
