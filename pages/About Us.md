@@ -4,27 +4,55 @@ permalink: /about-us/
 variant: tiptap
 description: about us
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/about_us_hero.png">
+</div>
+<p>REAL is a platform built to give your mental health the care it deserves.
+We recognise and champion the reality of your feelings and emotions. You
+may have been taught to believe that your problems don’t deserve attention.
+Or you may be used to hearing things like:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="we're real and we're here for you" src="/images/Webpage assets/about_us_hero.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/about_us_hero_2.png">
 </div>
+<p>REAL is trying to change this. We will never gaslight you. Your mental
+health deserves care and help, not doubts and dismissals. If you feel it,
+it’s real. It deserves real support.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="&quot;just tired lah&quot;, &quot;It's all in your head&quot; said others" src="/images/Webpage assets/about_us_hero_2.png">
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">We Believe</div>
+<div class="isomer-card-description">that your problems are never too small to deserve care.</div>
 </div>
-<p>Sounds familiar? REAL is trying to change the way we deal with our feelings.
-Your mental health deserves real care and help, not doubts and dismissals.
-If you feel it, it’s real. You deserve real support.</p>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">We Believe</div>
+<div class="isomer-card-description">that support should always be accessible, available, and affordable.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">We Believe</div>
+<div class="isomer-card-description">that seeking support should feel safe, transparent, and welcoming.</div>
+</div>
+</div>
+</div>
+<p>We got you – whether you’re unsure of where to begin or if you just need
+direction on where to find support. We’re here to help connect you to affordable
+mental health support within your community.</p>
 <p></p>
 <h3><strong>OUR MISSION</strong></h3>
-<p>Real is an ally that supports better mental health for youth. We are a
-space that connects under-35s to the help they need through empathy and
-education.</p>
+<p>Real is an ally that supports better mental health for youth and young
+adults. We are a space that enables under-35s to seek help without fear,
+prejudice or judgement.</p>
 <p></p>
 <h3><strong>OUR VISION</strong></h3>
 <p>Enabling a tomorrow where access to mental health doesn’t have to be earned.
 It’s a right.</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/get_real_support.png">
