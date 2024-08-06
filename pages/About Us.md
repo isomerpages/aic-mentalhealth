@@ -62,4 +62,3 @@ It’s a right.</p>
 neighbourhood.</p>
 <p><a href="https://placehold.co/600x400?text=Placeholder\nFind+Help" rel="noopener noreferrer nofollow" target="_blank">FIND HELP</a>
 </p>
-<p></p>
