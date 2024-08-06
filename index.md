@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Consortium for Clinical Research and Innovation Singapore (CRIS)
+title: REAL
 description: Lorem ipsum odor amet, consectetuer adipiscing elit. Dapibus
   blandit ac nisl fusce blandit eleifend per montes pharetra. Inceptos fusce
   vivamus amet laoreet netus. Congue hac morbi nulla pharetra; tempor risus.
