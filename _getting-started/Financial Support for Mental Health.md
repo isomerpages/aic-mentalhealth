@@ -15,14 +15,14 @@ agencies may charge a nominal commitment fee.</p>
 <p>For medical services such as seeing a GP or Polyclinic Doctor, there are
 financial subsidies that can help ease the burden.</p>
 <p></p>
-<p>Medisave</p>
+<h3><strong>Medisave</strong></h3>
 <p>Mental health conditions like schizophrenia, depression, bipolar disorder,
 and anxiety are covered by Medisave under the Chronic Disease Management
 Programme (CDMP)-Mental Illness.&nbsp;</p>
 <p>This means you can use your Medisave to pay up to $500 of your outpatient
 treatment cost per year. You’ll just have to co-pay 15% of your bill.</p>
 <p></p>
-<p>Community Health Assist Scheme (CHAS)</p>
+<h3><strong>Community Health Assist Scheme (CHAS)</strong></h3>
 <p>The Community Health Assist Scheme enables all Singapore Citizens to receive
 subsidies for medical care at participating General Practitioner (GP) clinics.</p>
 <p><a href="https://placehold.co/600x400?text=Placeholder\nMore+Details+About+CHAS" rel="noopener noreferrer nofollow" target="_blank">More details here</a>
