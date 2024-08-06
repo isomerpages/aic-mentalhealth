@@ -2,7 +2,7 @@ collections:
   getting-started:
     output: true
     order:
-      - A GUIDE TO MENTAL HEALTH SUPPORT.md
+      - A Guide to Mental Health Support.md
       - TYPES OF MENTAL HEALTH SUPPORT.md
       - COMMON TYPES OF TREATMENT.md
       - FIND SUPPORT WITHIN YOUR COMMUNITY.md
