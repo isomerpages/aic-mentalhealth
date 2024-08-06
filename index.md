@@ -204,7 +204,7 @@ sections:
       button: About us
       url: /about-us
   - infopic:
-      title: NOT SURE HOW TO START?
+      title: Not Sure How to Start?
       id: infopic
       description: Don’t worry, we’ll guide you to the mental health support you need.
       button: Get started
@@ -212,7 +212,7 @@ sections:
       image: /images/Webpage assets/a_guide_to_mental_health_support_hero.png
       alt: people who are stuck
   - infopic:
-      title: WHERE CAN I GET GET HELP?
+      title: Where Can I Get Help?
       id: infopic
       description: Don't get tough. Get in touch and find the right support.
       button: Find help
@@ -220,7 +220,7 @@ sections:
       image: /images/Webpage assets/where_can_i_get_help.png
       alt: a person looking for help
   - infopic:
-      title: EAGER TO LEARN MORE?
+      title: Eager to Learn More?
       id: infopic
       description: Need mental health information for yourself or your loved ones?
         We’ve got you covered.
