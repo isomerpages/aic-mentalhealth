@@ -202,13 +202,13 @@ sections:
       subtitle: We see you, we get you
       description: We’re a safe space that connects you to mental health support.
       button: About us
-      url: /about-us
+      url: /
   - infopic:
       title: Not Sure How to Start?
       id: infopic
       description: Don’t worry, we’ll guide you to the mental health support you need.
       button: Get started
-      url: /a-guide-to-mental-health-support
+      url: /
       image: /images/Webpage assets/a_guide_to_mental_health_support_hero.png
       alt: people who are stuck
   - infopic:
@@ -225,7 +225,7 @@ sections:
       description: Need mental health information for yourself or your loved ones?
         We’ve got you covered.
       button: Resources
-      url: /resources
+      url: /
       image: /images/Webpage assets/eager_to_learn_more.png
       alt: care to learn more
   - resources:
