@@ -210,16 +210,16 @@ sections:
         - title: RESOURCES
           description: ""
           url: /
-  - resources:
-      title: Real Stories
-      id: resources
-      button: Read more stories
   - infobar:
       title: Welcome to Real.
       subtitle: We see you, we get you
       description: We’re a safe space that connects you to mental health support.
       button: About us
       url: /
+  - resources:
+      title: Real Stories
+      id: resources
+      button: Read more stories
   - infopic:
       title: Not Sure How to Start?
       id: infopic
