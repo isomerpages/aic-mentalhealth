@@ -197,6 +197,23 @@ sections:
       background: /images/Webpage assets/home_hero.png
       variant: image
       title: \
+      key_highlights:
+        - title: ABOUT US
+          description: ""
+          url: /
+        - title: GET STARTED
+          description: ""
+          url: /
+        - title: FIND SUPPORT
+          description: ""
+          url: /find-support
+        - title: RESOURCES
+          description: ""
+          url: /
+  - resources:
+      title: Real Stories
+      id: resources
+      button: Read more stories
   - infobar:
       title: Welcome to Real.
       subtitle: We see you, we get you
@@ -228,8 +245,4 @@ sections:
       url: /
       image: /images/Webpage assets/eager_to_learn_more.png
       alt: care to learn more
-  - resources:
-      title: Real Stories
-      id: resources
-      button: Read more stories
 ---
