@@ -12,22 +12,22 @@ description: ""
 <p>Find mental health support that suits your needs.</p>
 <p></p>
 <p></p>
-<h3><strong>IF YOU ARE NOT SURE</strong></h3>
+<h3><strong>If You’re Not Sure&nbsp;</strong></h3>
 <p><a href="https://mindline.sg/youth/mental-health-service-providers/search?type=enquiry-support" rel="noopener noreferrer nofollow" target="_blank">Reach out to your nearest Community Outreach Team (CREST)</a>
 </p>
 <p></p>
 <p></p>
-<h3><strong>IF YOU NEED A COUNSELLOR/ THERAPIST</strong></h3>
+<h3><strong>If You Need a Counsellor/therapist</strong></h3>
 <p><a href="https://mindline.sg/youth/mental-health-service-providers/search?type=therapy-counselling" rel="noopener noreferrer nofollow" target="_blank">Reach out to your nearest Community Intervention Team (COMIT)</a>
 </p>
 <p></p>
 <p></p>
-<h3><strong>IF YOU WANT TO SEEK MEDICAL SUPPORT</strong></h3>
+<h3><strong>If You Want to Seek Medical Support</strong></h3>
 <p><a href="https://mindline.sg/youth/mental-health-service-providers/search?type=medical-advice" rel="noopener noreferrer nofollow" target="_blank">Reach out to your nearest GP/Polyclinic</a>
 </p>
 <p></p>
 <p></p>
-<h3><strong>WANT TO KNOW MORE?</strong></h3>
+<h3><strong>Want to Know More?</strong></h3>
 <p><a href="/find-support-within-your-community/" rel="noopener noreferrer nofollow" target="_blank">Learn more about community support</a>
 </p>
 <p></p>
