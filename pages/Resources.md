@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/resources_hero.png">
 </div>
-<h3><strong>WANT TO LEARN MORE?</strong></h3>
+<h3><strong>Want to Learn More?</strong></h3>
 <p>Follow these links to understand more about mental health.</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -25,7 +25,7 @@ description: ""
 </li>
 </ul>
 <p></p>
-<h3><strong>SHOULD I SEEK SUPPORT?</strong></h3>
+<h3><strong>Should I Seek Support?</strong></h3>
 <p>If you’re not sure, try out these online self-assessment tools.</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -38,7 +38,7 @@ description: ""
 </li>
 </ul>
 <p></p>
-<h3><strong>LOOKING FOR FIRST-STOP SUPPORT?</strong></h3>
+<h3><strong>Looking for First-Stop Support?</strong></h3>
 <p>We’ve got you. We’ve got different types of support available for you.</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -49,7 +49,7 @@ description: ""
 </li>
 </ul>
 <p></p>
-<h3><strong>NEED URGENT CARE?</strong></h3>
+<h3><strong>Need Urgent Care?</strong></h3>
 <p>Call these 24/7 helplines if you are in distress or need to talk to someone.</p>
 <ul data-tight="true" class="tight">
 <li>
