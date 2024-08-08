@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/find_support_hero.png">
 </div>
-<h3><strong>HELP IS CLOSE AT HAND</strong></h3>
+<h3><strong>Help Is Close at Hand</strong></h3>
 <p>Find mental health support that suits your needs.</p>
 <p></p>
 <p></p>
