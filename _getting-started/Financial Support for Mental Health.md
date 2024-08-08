@@ -4,7 +4,6 @@ permalink: /financial-support-for-mental-health/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/types_of_mental_health_support.png">
 </div>
