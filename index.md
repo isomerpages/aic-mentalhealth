@@ -229,7 +229,7 @@ sections:
       image: /images/Webpage assets/eager_to_learn_more.png
       alt: care to learn more
   - resources:
-      title: REAL STORIES
+      title: Real Stories
       id: resources
       button: Read more stories
 ---
