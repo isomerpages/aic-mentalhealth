@@ -190,8 +190,8 @@ description: Lorem ipsum odor amet, consectetuer adipiscing elit. Dapibus
   blandit potenti et sagittis pulvinar semper.
 image: /images/Webpage assets/logo.svg
 permalink: /
-notification: Need urgent care? Call the Samaritans of Singapore at 1767, or use
-  995 to reach the nearest A&E.
+notification: In distress or need to talk to someone? Call the Samaritans of
+  Singapore at 1767 or IMH Helpline at 63892222.
 sections:
   - hero:
       background: /images/Webpage assets/home_hero.png
@@ -214,7 +214,7 @@ sections:
   - infopic:
       title: Where Can I Get Help?
       id: infopic
-      description: Don't get tough. Get in touch and find the right support.
+      description: Don’t get tough on yourself. Get in touch to find the right support.
       button: Find help
       url: /find-support
       image: /images/Webpage assets/where_can_i_get_help.png
