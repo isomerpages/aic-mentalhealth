@@ -44,12 +44,12 @@ it’s real. It deserves real support.</p>
 direction on where to find support. We’re here to help connect you to affordable
 mental health support within your community.</p>
 <p></p>
-<h3><strong>OUR MISSION</strong></h3>
+<h3><strong>Our Mission</strong></h3>
 <p>Real is an ally that supports better mental health for youth and young
 adults. We are a space that enables under-35s to seek help without fear,
 prejudice or judgement.</p>
 <p></p>
-<h3><strong>OUR VISION</strong></h3>
+<h3><strong>Our Vision</strong></h3>
 <p>Enabling a tomorrow where access to mental health doesn’t have to be earned.
 It’s a right.</p>
 <p></p>
@@ -57,7 +57,7 @@ It’s a right.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/get_real_support.png">
 </div>
-<h3><strong>GET REAL SUPPORT FROM REAL EXPERTS</strong></h3>
+<h3><strong>Get Real Support From Real Experts</strong></h3>
 <p>Help is out there. Let us connect you to mental health support in your
 neighbourhood.</p>
 <p><a href="https://placehold.co/600x400?text=Placeholder\nFind+Help" rel="noopener noreferrer nofollow" target="_blank">FIND HELP</a>
