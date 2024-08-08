@@ -4,7 +4,6 @@ permalink: /a-guide-to-mental-health-support/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/a_guide_to_mental_health_support_hero.png">
 </div>
