@@ -60,5 +60,5 @@ It’s a right.</p>
 <h3><strong>Get Real Support From Real Experts</strong></h3>
 <p>Help is out there. Let us connect you to mental health support in your
 neighbourhood.</p>
-<p><a href="https://placehold.co/600x400?text=Placeholder\nFind+Help" rel="noopener noreferrer nofollow" target="_blank">FIND HELP</a>
+<p><a href="/find-support" rel="noopener noreferrer nofollow" target="_blank">Find help</a>
 </p>
