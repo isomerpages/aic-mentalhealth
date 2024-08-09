@@ -199,8 +199,8 @@ sections:
       title: \
       key_highlights:
         - title: ABOUT US
-          description: ""
-          url: /
+          description: this is a discription
+          url: ""
         - title: GET STARTED
           description: ""
           url: /
