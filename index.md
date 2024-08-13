@@ -199,7 +199,7 @@ sections:
       title: \
       key_highlights:
         - title: ABOUT US
-          description: this is a discription
+          description: ""
           url: ""
         - title: GET STARTED
           description: ""
