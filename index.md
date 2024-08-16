@@ -198,7 +198,7 @@ sections:
       variant: image
       title: \
       key_highlights:
-        - title: changed this tab
+        - title: about us
           description: ""
           url: ""
         - title: GET STARTED
