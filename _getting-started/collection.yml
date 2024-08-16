@@ -2,7 +2,6 @@ collections:
   getting-started:
     output: true
     order:
-      - my new page.md
       - A Guide to Mental Health Support.md
       - Types of Mental Health Support.md
       - Common Types of Treatment.md
