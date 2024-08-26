@@ -1,5 +1,9 @@
 logo: /images/Webpage assets/logo.svg
 links:
+  - title: About Us
+    url: /
+  - title: Get Started
+    url: /
   - title: Find Support
     url: /find-support/
   - title: Resources
