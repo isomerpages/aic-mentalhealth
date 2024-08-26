@@ -211,7 +211,7 @@ sections:
           description: ""
           url: /
   - infobar:
-      title: Welcome to Real.
+      title: Welcome to REAL.
       subtitle: We see you, we get you
       description: We’re a safe space that connects you to mental health support.
       button: About us
