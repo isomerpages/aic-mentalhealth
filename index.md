@@ -226,7 +226,7 @@ sections:
       description: Don’t worry, we’ll guide you to the mental health support you need.
       button: Get started
       url: /
-      image: /images/Webpage assets/a_guide_to_mental_health_support_hero.png
+      image: /images/Webpage assets/image_container.png
       alt: people who are stuck
   - infopic:
       title: Where Can I Get Help?
