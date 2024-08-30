@@ -215,7 +215,7 @@ sections:
       subtitle: We see you, we get you
       description: We’re a safe space that connects you to mental health support.
       button: About us
-      url: /
+      url: /about-us
   - resources:
       title: Real Stories
       id: resources
