@@ -198,18 +198,18 @@ sections:
       variant: image
       title: \
       key_highlights:
-        - title: about us
+        - title: ABOUT US
           description: ""
-          url: ""
+          url: /about-us
         - title: GET STARTED
           description: ""
-          url: /
+          url: /a-guide-to-mental-health-support
         - title: FIND SUPPORT
           description: ""
           url: /find-support
         - title: RESOURCES
           description: ""
-          url: /
+          url: /resources
   - infobar:
       title: Welcome to REAL.
       subtitle: We see you, we get you
@@ -225,7 +225,7 @@ sections:
       id: infopic
       description: Don’t worry, we’ll guide you to the mental health support you need.
       button: Get started
-      url: /
+      url: /a-guide-to-mental-health-support/
       image: /images/Webpage assets/image_container.png
       alt: people who are stuck
   - infopic:
@@ -242,7 +242,7 @@ sections:
       description: Need mental health information for yourself or your loved ones?
         We’ve got you covered.
       button: Resources
-      url: /
+      url: /resources
       image: /images/Webpage assets/eager_to_learn_more.png
       alt: care to learn more
 ---
