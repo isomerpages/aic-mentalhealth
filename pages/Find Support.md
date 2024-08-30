@@ -27,6 +27,6 @@ description: ""
 <p></p>
 <p></p>
 <h3><strong>Want to Know More?</strong></h3>
-<p><a href="/" rel="noopener noreferrer nofollow" target="_blank">Learn more about community support</a>
+<p><a href="/find-support-within-your-community/" rel="noopener noreferrer nofollow" target="_blank">Learn more about community support</a>
 </p>
 <p></p>
