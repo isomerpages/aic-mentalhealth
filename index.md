@@ -251,7 +251,7 @@ sections:
           linktext: Call us
           url: tel:1767
         - title: 24-hour CareText via WhatsApp
-          description: "Tel: 9151 1767"
+          description: "Whatsapp number: 9151 1767"
           linktext: Leave a message
           url: https://api.whatsapp.com/send/?phone=%2B6591511767&text&type=phone_number&app_absent=0
 ---
