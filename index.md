@@ -243,11 +243,11 @@ sections:
         speak to someone urgently:"
       cards:
         - title: IMH’s Mental Health Hotline
-          description: 'Tel: <a href="tel:63892000">6389 2222</a>'
+          description: "Tel: 63892000"
           linktext: Call Us
           url: tel:63892000
         - title: Samaritans of Singapore
-          description: "Tel: 1767 (24-hour hotline)"
+          description: "Tel: 1767"
           linktext: Call us
           url: tel:1767
         - title: 24-hour CareText via WhatsApp
