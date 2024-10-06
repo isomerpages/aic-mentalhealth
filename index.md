@@ -246,10 +246,10 @@ sections:
           description: 'Tel: <span style="color: #0000FF;">🔵 Blue text</span>'
           linktext: Call Us
           url: tel:63892000
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+        - title: Samaritans of Singapore
+          description: "Tel: 1767 (24-hour hotline)"
+          linktext: Call us
+          url: tel:1767
         - title: Card
           description: Card description
           linktext: Learn more
