@@ -250,8 +250,8 @@ sections:
           description: "Tel: 1767 (24-hour hotline)"
           linktext: Call us
           url: tel:1767
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+        - title: 24-hour CareText via WhatsApp
+          description: "Tel: 9151 1767"
+          linktext: Leave a message
+          url: https://api.whatsapp.com/send/?phone=%2B6591511767&text&type=phone_number&app_absent=0
 ---
