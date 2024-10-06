@@ -249,4 +249,10 @@ sections:
       title: Real Stories
       id: resources
       button: Read more stories
+  - infobar:
+      title: In Need of Immediate Support?
+      id: infobar
+      description: IMH’s Mental Health Hotline 6389 2222 &#10  Samaritans of
+        Singapore&#10 1767 (24-hour hotline)&#10 or 9151 1767 (24-hour CareText
+        via WhatsApp)
 ---
