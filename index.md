@@ -237,10 +237,10 @@ sections:
       image: /images/Webpage assets/where_can_i_get_help.png
       alt: a person looking for help
   - infopic:
-      title: Eager to Learn More?
+      title: Want to Learn More?
       id: infopic
-      description: Need mental health information for yourself or your loved ones?
-        We’ve got you covered.
+      description: Need more mental health information for yourself or your loved
+        ones? We’ve got you covered.
       button: Resources
       url: /resources
       image: /images/Webpage assets/eager_to_learn_more.png
