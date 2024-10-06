@@ -217,14 +217,11 @@ sections:
         within your community. (need to shorten this to 160 chars)
       button: About us
       url: /about-us
-  - resources:
-      title: Real Stories
-      id: resources
-      button: Read more stories
   - infopic:
       title: Not Sure How to Start?
       id: infopic
-      description: Don’t worry, we’ll guide you to the mental health support you need.
+      description: Don’t worry, we’ll break down what you need to know about the types
+        of mental health treatments and support that are available to you.
       button: Get started
       url: /a-guide-to-mental-health-support/
       image: /images/Webpage assets/image_container.png
@@ -232,7 +229,9 @@ sections:
   - infopic:
       title: Where Can I Get Help?
       id: infopic
-      description: Don’t get tough on yourself. Get in touch to find the right support.
+      description: We’ll help you find support that’s right for you within your
+        community. Your don’t have to worry about keeping things
+        private. (reduce to within 160  chars)
       button: Find help
       url: /find-support
       image: /images/Webpage assets/where_can_i_get_help.png
@@ -246,4 +245,8 @@ sections:
       url: /resources
       image: /images/Webpage assets/eager_to_learn_more.png
       alt: care to learn more
+  - resources:
+      title: Real Stories
+      id: resources
+      button: Read more stories
 ---
