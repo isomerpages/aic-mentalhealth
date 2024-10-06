@@ -214,7 +214,7 @@ sections:
       title: Welcome to REAL.
       subtitle: We see you, we get you
       description: We’re a safe space that connects you to mental health support
-        within your community.
+        within your community. (need to shorten this to 160 chars)
       button: About us
       url: /about-us
   - resources:
