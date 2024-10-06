@@ -213,8 +213,8 @@ sections:
   - infobar:
       title: Welcome to REAL.
       subtitle: We see you, we get you
-      description: Your feelings, no matter how big or small, are real and deserve
-        real support. We’re a safe space that connects you to your community.
+      description: We’re a safe space that connects you to mental health support
+        within your community.
       button: About us
       url: /about-us
   - resources:
