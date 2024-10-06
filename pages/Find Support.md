@@ -13,19 +13,16 @@ Your visits will be kept strictly confidential, so you don’t have to worry
 about keeping things private.</p>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://mindline.sg/youth/mental-health-service-providers/search?type=enquiry-support" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">If You’re Not Sure&nbsp;</div><div class="isomer-card-description">You can reach out to the Community Outreach Teams (CREST/CREST-Youth) who can help identify your mental health needs, provide emotional support, and link you to other services. CREST is fully funded by the government and is free of charge.&nbsp;</div><div class="isomer-card-link">Find your nearest Community Outreach Team (CREST)</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://mindline.sg/youth/mental-health-service-providers/search?type=therapy-counselling" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">If You Need a Counsellor/Therapist</div>
+<div class="isomer-card-description">You can reach out to the Community Intervention Teams (COMIT/YIT) where
+qualified mental health professionals will support you with therapy and
+counselling. COMIT is fully funded by the government and is free of charge.</div>
+<div class="isomer-card-link">Find your nearest Community Intervention Team (COMIT)</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <h3><strong>If You’re Not Sure&nbsp;</strong></h3>
 <p><a href="https://mindline.sg/youth/mental-health-service-providers/search?type=enquiry-support" rel="noopener noreferrer nofollow" target="_blank">Reach out to your nearest Community Outreach Team (CREST)</a>
