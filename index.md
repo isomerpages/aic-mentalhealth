@@ -197,19 +197,6 @@ sections:
       background: /images/Webpage assets/home_hero.png
       variant: image
       title: \
-      key_highlights:
-        - title: ABOUT US
-          description: ""
-          url: /about-us
-        - title: GET STARTED
-          description: ""
-          url: /a-guide-to-mental-health-support
-        - title: FIND SUPPORT
-          description: ""
-          url: /find-support
-        - title: RESOURCES
-          description: ""
-          url: /resources
   - infobar:
       title: Welcome to REAL.
       subtitle: We see you, we get you
