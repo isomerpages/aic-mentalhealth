@@ -216,13 +216,13 @@ sections:
   - infopic:
       title: Where Can I Get Help?
       id: infopic
-      description: We’ll help you find support that’s right for you within your
-        community. Your don’t have to worry about keeping things
-        private. (reduce to within 160  chars)
+      description: Don’t worry, we’ll break down what you need to know about the types
+        of mental health treatments and support that are available to you.
       button: Find support
       url: /find-support
       image: /images/Webpage assets/where_can_i_get_help.png
       alt: a person looking for help
+      subtitle: how do I get help?
   - infopic:
       title: Want to Learn More?
       id: infopic
@@ -243,15 +243,15 @@ sections:
         speak to someone urgently:"
       cards:
         - title: IMH’s Mental Health Hotline
-          description: "Tel: 63892000"
-          linktext: Call Us
+          description: ""
+          linktext: "Tel: 63892000"
           url: tel:63892000
         - title: Samaritans of Singapore
-          description: "Tel: 1767"
-          linktext: Call us
+          description: ""
+          linktext: "Tel: 1767"
           url: tel:1767
         - title: 24-hour CareText via WhatsApp
-          description: "Whatsapp number: 9151 1767"
-          linktext: Leave a message
+          description: ""
+          linktext: "Whatsapp number: 9151 1767"
           url: https://api.whatsapp.com/send/?phone=%2B6591511767&text&type=phone_number&app_absent=0
 ---
