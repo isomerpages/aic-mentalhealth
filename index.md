@@ -219,7 +219,7 @@ sections:
       description: We’ll help you find support that’s right for you within your
         community. Your don’t have to worry about keeping things
         private. (reduce to within 160  chars)
-      button: Find help
+      button: Find support
       url: /find-support
       image: /images/Webpage assets/where_can_i_get_help.png
       alt: a person looking for help
