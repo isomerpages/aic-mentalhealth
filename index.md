@@ -228,7 +228,7 @@ sections:
       id: infopic
       description: Need more mental health information for yourself or your loved
         ones? We’ve got you covered.
-      button: Resources
+      button: More Resources
       url: /resources
       image: /images/Webpage assets/eager_to_learn_more.png
       alt: care to learn more
