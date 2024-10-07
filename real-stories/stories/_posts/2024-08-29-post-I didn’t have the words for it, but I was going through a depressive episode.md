@@ -77,5 +77,5 @@ experiences, learn and grow from it.</p>
 <p></p>
 <h3><strong>“The scientific evidence is clear that treatments will help. You are likely not the exception. Be open to trying&nbsp; it. Most importantly, you’re not alone, and you don’t have to do it alone.”</strong></h3>
 <p></p>
-<p>Got a story? Share it with us at <a href="mailto:aicrealspace.sg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">aicrealspace.sg@gmail.com</a> to
-lend strength to someone in need.</p>
+<p><em>Got a story? Share it with us at <a href="mailto:aicrealspace.sg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">aicrealspace.sg@gmail.com</a> to lend strength to someone in need.</em>
+</p>
