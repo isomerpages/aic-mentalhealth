@@ -23,7 +23,7 @@ the same thing, you can reach out to online support groups like <a href="https:/
 can reach out to the care professionals from the first-stop touchpoint
 Community Outreach Teams (CREST/CREST-Youth), who will advise you. You
 can also consult your General Practitioner (GP) or Polyclinic Doctor about
-your struggles to receive an assessment and possible treatment.&nbsp;</p>
+your struggles to receive an assessment and possible treatment.</p>
 <p></p>
 <h3><strong>If You’re Worried About Keeping Things Private</strong></h3>
 <p>Don’t be! Your visits to the doctor or a social service agency are confidential.
