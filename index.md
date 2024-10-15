@@ -223,7 +223,7 @@ sections:
       button: Find support
       url: /find-support
       image: /images/Webpage assets/where_can_i_get_help.png
-      alt: a person looking for help
+      alt: a person with an open door.
       subtitle: how do I get help?
   - infopic:
       title: Want to Learn More?
