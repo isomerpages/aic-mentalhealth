@@ -29,5 +29,4 @@ your struggles to receive an assessment and possible treatment.&nbsp;</p>
 <p>Don’t be! Your visits to the doctor or a social service agency are confidential.
 Your health records cannot be shared without your permission. The only
 exception to this rule is when it’s ordered by a court of law, or if there’s
-a need to prevent harm to yourself or to others.&nbsp;&nbsp;</p>
-<p></p>
+a need to prevent harm to yourself or to others.&nbsp;</p>
