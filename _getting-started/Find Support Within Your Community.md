@@ -6,7 +6,7 @@ description: Find out about the services within your community that can support 
 image: /images/Webpage assets/real_meta_image.png
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/find_support_within_your_community.png">
+<img style="width: 100%" height="auto" width="100%" alt="An illustration of a hand holding one end of a string telephone." src="/images/Webpage assets/find_support_within_your_community.png">
 </div>
 <p>There are many services within your community that can support you on
 your mental health journey. Many social service agencies are fully funded
