@@ -22,7 +22,7 @@ mental health professionals will support you with therapy and counselling.
 COMIT is fully funded by the government and there is no out-of-pocket cost.</div>
 <div class="isomer-card-link">Find your nearest Community Intervention Team (COMIT)</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://mindline.sg/youth/mental-health-service-providers/search?type=medical-advice" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">If You Want to Seek Medical Support</div><div class="isomer-card-description">You may visit a General Practitioner (GP) or a Polyclinic who can alleviate your symptoms with medication, or refer you to the right specialist for long-term care. Consultation costs may vary between clinics, so you should approach your respective Polyclinic or GP for more information on their fees.</div><div class="isomer-card-link">Find your nearest GP/Polyclinic</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://mindline.sg/youth/mental-health-service-providers/search?type=medical-advice" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">If You Want to Seek Medical Support</div><div class="isomer-card-description">You may visit a General Practitioner (GP) or a Polyclinic who can alleviate your symptoms with medication, or refer you to the right specialist for long-term care. Consultation costs may vary between clinics, so you should approach your respective GP or Polyclinic for more information on their fees.</div><div class="isomer-card-link">Find your nearest GP/Polyclinic</div></div></a>
 </div>
 <p></p>
 <h3><strong>Here’s How To Reach Out</strong></h3>
