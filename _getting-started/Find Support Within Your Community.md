@@ -8,16 +8,16 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/find_support_within_your_community.png">
 </div>
 <p>There are many services within your community that can support you on
-your mental health journey. Many social service agencies provide support
-that are fully funded by the government, while some may charge a nominal
-fee. These include the Community Outreach Teams (CREST/CREST-Youth) and
-Community Intervention Teams (COMIT)/Youth Integrated Teams. There are
-also GPs, polyclinics, and hospitals that provide mental health support.</p>
-<p><a href="https://www.figma.com/exit?url=https%3A%2F%2Fmindline.sg%2Fyouth%2Fmental-health-service-providers%2Fstart" rel="noopener noreferrer nofollow" target="_blank">Search for Community Mental Health Services here</a>
+your mental health journey. Many social service agencies are fully funded
+by the government and there is no out-of-pocket cost. These include the
+Community Outreach Teams (CREST/CREST-Youth) and Community Intervention
+Teams (COMIT)/Youth Integrated Teams (YIT). There are also GPs, polyclinics,
+and hospitals that provide mental health support.</p>
+<p><a href="/find-support/" rel="noopener noreferrer nofollow" target="_blank">Search for Community Mental Health Services here</a>
 </p>
 <p></p>
 <h3><strong>Community Outreach Team (CREST/CREST-Youth)</strong></h3>
-<p>The Community Outreach Teams (CREST/CREST-Youth) can advise you on the
+<p>CREST/CREST-Youth is a first-stop touchpoint that can advise you on the
 kind of mental health support you need and provide emotional support.</p>
 <p>You can contact a CREST provider directly to make an appointment, where
 a&nbsp;trained professional will get to know you and identify your mental
