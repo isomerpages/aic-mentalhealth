@@ -7,7 +7,7 @@ description: Help is always within reach. Find mental health support that suits
 image: /images/Webpage assets/real_meta_image.png
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/find_support_hero.png">
+<img style="width: 100%" height="auto" width="100%" alt="An illustration of two arms wrapping around a therapy chair." src="/images/Webpage assets/find_support_hero.png">
 </div>
 <h3><strong>Help Is Close at Hand</strong></h3>
 <p>Find mental health support within your community that suits your needs.
@@ -43,7 +43,7 @@ Healthhub.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="find immediate support" src="/images/Webpage assets/find_support_immediate_support.png">
+<img style="width: 100%" height="auto" width="100%" alt="An illustration of an ear within a telephone." src="/images/Webpage assets/find_support_immediate_support.png">
 </div>
 <h4><strong>In Need of Immediate Support?</strong></h4>
 <p>Contact any of these 24-hour services if you feel you need to speak to
