@@ -231,7 +231,7 @@ sections:
       description: Need more mental health information for yourself or your loved
         ones? We’ve got you covered.
       button: More Resources
-      url: /resources
+      url: /more-resources/
       image: /images/Webpage assets/eager_to_learn_more.png
       alt: care to learn more
   - resources:
