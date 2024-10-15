@@ -70,6 +70,8 @@ this’,” she elaborated.
 the people—she loves.</p>
 <p></p>
 <h3><strong>“Having good mental health helps me to look forward to the future instead of fixating on the past, what keeps me going is the people I love, that matters to me a lot.”</strong></h3>
+<p>Got a story? Share it with us at <a href="mailto:aicrealspace.sg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">aicrealspace.sg@gmail.com</a> to
+lend strength to someone in need.</p>
 <p></p>
 <p></p>
 <p></p>
