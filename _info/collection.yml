@@ -2,4 +2,5 @@ collections:
   info:
     output: true
     order:
+      - Pravacy.md
       - Terms of Use.md
