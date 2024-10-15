@@ -7,7 +7,7 @@ description: Depending on your mental health needs, you might find these types
 image: /images/Webpage assets/real_meta_image.png
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/types_of_mental_health_support.png">
+<img style="width: 100%" height="auto" width="100%" alt="An illustration of two hands connected in a circle." src="/images/Webpage assets/types_of_mental_health_support.png">
 </div>
 <p>Broadly, there are three types of mental health support that are available,
 depending on your needs. If you’re unsure, you can reach out to a first-stop
