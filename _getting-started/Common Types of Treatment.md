@@ -6,7 +6,7 @@ description: Here are some types of treatment available to you.
 image: /images/Webpage assets/real_meta_image.png
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/common_types_of_treatment.png">
+<img style="width: 100%" height="auto" width="100%" alt="An illustration of a loudspeaker inside a person’s head." src="/images/Webpage assets/common_types_of_treatment.png">
 </div>
 <h3><strong>Psychotherapy</strong></h3>
 <p>Psychotherapy can be used to treat mental health conditions alone or can
