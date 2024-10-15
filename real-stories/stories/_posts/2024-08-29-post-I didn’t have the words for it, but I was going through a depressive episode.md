@@ -17,23 +17,18 @@ variant: tiptap
 just one tiny diﬀerence.</p>
 <p></p>
 <h3><strong>&nbsp;“My elder brother was diagnosed with autism,” he explained.</strong></h3>
-<p>In university, however, Amos was overwhelmed. It was one thing after another.
-First, his grandmother took her own life. Then, a freak accident claimed
-the life of a close family member. On top of his family turmoil, he was
-also going through relationship problems, whilst being socially isolated
-in the campus dorms.&nbsp;
+<p>It was stressful for his parents, who devoted much of their energy and
+care to his brother’s condition. Growing up under such circumstances, Amos
+felt like he needed to be ‘The Perfect Son’. He felt the need to earn their
+love and aﬀection.
 <br>
-<br>Yet, despite these struggles, he tried his hardest to push through on
-his own.
+<br>“That’s where the high standards for myself came from,” he reflected.
 <br>
-<br>“The reluctance to seek professional help came from thinking that it’s
-not severe enough to warrant that. To think that I’m just weak, I need
-to work harder, man up, buck up” he recalled.
-<br>
-<br>At his lowest point, Amos found himself in the hospital’s emergency department
-after his mental health took a turn for the worse. Yet, even as Amos ‘didn’t
-know how to keep (himself) safe anymore’, he continued to worry about how
-the stigma surrounding mental illness might aﬀect him in the future.</p>
+<br>For a time, pursuing those standards worked out. He did well in school.
+He excelled in sports. He wasn’t unhappy. It was only in Junior College
+and National Service that mental health symptoms began to surface. With
+poor grades and even poorer self-esteem, the best Amos could do was to
+‘scrape through”.</p>
 <p></p>
 <h3><strong>“I didn’t have the words for it back then but, looking back, I think I was going through a depressive episode.”</strong></h3>
 <p>In university, however, Amos was overwhelmed. It was one thing after another.
