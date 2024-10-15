@@ -200,8 +200,9 @@ sections:
   - infobar:
       title: Welcome to REAL.
       subtitle: We see you, we get you
-      description: We’re a safe space that connects you to mental health support
-        within your community. (need to shorten this to 160 chars)
+      description: Your feelings, no matter how big or small, deserve real support.
+        REAL is a safe space that connects you to mental health support you
+        need.
       button: About us
       url: /about-us
   - infopic:
