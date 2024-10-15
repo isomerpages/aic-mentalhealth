@@ -208,8 +208,9 @@ sections:
   - infopic:
       title: Not Sure How to Start?
       id: infopic
-      description: Don’t worry, we’ll break down what you need to know about the types
-        of mental health treatments and support that are available to you.
+      description: Don’t worry, here's all you need to know about the types of mental
+        health support available to you. Still unsure? Reach out to CREST, a
+        first-stop touchpoint.
       button: Get started
       url: /a-guide-to-mental-health-support/
       image: /images/Webpage assets/image_container.png
