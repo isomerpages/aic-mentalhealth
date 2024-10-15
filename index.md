@@ -252,8 +252,8 @@ sections:
           description: 24-hour hotline
           linktext: Call 1767
           url: tel:1767
-        - title: 24-hour CareText via WhatsApp
-          description: ""
-          linktext: "Whatsapp number: 9151 1767"
+        - title: Samaritans of Singapore CareText
+          description: 24-hour CareText via WhatsApp
+          linktext: Text 9151 1767
           url: https://api.whatsapp.com/send/?phone=%2B6591511767&text&type=phone_number&app_absent=0
 ---
