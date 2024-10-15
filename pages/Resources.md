@@ -41,7 +41,8 @@ description: ""
 <p>We’ve got you. We’ve got different types of support available for you.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>If you prefer in-person help, reach out to <a href="https://mindline.sg/youth/mental-health-service-providers/search?type=enquiry-support" rel="noopener noreferrer nofollow" target="_blank">Community Outreach Team (CREST)</a>.</p>
+<p>If you prefer in-person help, reach out to our first-stop touchpoint,
+<a href="https://mindline.sg/youth/mental-health-service-providers/search?type=enquiry-support" rel="noopener noreferrer nofollow" target="_blank">Community Outreach Team (CREST)</a>.</p>
 </li>
 <li>
 <p>If you prefer digital answers, seek help at <a href="http://mindline.sg" rel="noopener noreferrer nofollow" target="_blank">mindline.sg</a>.</p>
