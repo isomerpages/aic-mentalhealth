@@ -4,15 +4,17 @@ permalink: /financial-support-for-mental-health/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/types_of_mental_health_support.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/financial_support_for_mental_health.png">
 </div>
-<p>You may be worried about the cost for mental health treatment, but services
-provided by social service agencies (CREST, CREST-Youth, COMIT, and YIT)
-are fully funded by the government and are free of charge. Although some
-agencies may charge a nominal commitment fee.</p>
-<p>For medical services such as seeing a GP or Polyclinic Doctor, there are
-financial subsidies that can help ease the burden.</p>
+<p>You may be worried about the cost of mental health treatment, but services
+provided by social service agencies like CREST, CREST-Youth, COMIT, and
+YIT are fully funded by the government and there is no out-of-pocket cost.</p>
+<p>Consultation costs for medical services such as seeing a GP or Polyclinic
+Doctor may vary between clinics, so you should approach the respective
+GP or Polyclinic for more information on their fees. There are also financial
+subsidies available that can help ease the burden.</p>
 <p></p>
 <h3><strong>Medisave</strong></h3>
 <p>Mental health conditions like schizophrenia, depression, bipolar disorder,
