@@ -218,8 +218,8 @@ sections:
   - infopic:
       title: Where Can I Get Help?
       id: infopic
-      description: Don’t worry, we’ll break down what you need to know about the types
-        of mental health treatments and support that are available to you.
+      description: We’ll help you find support that’s right for you within your
+        community. Don't worry, your visits will be kept strictly confidential.
       button: Find support
       url: /find-support
       image: /images/Webpage assets/where_can_i_get_help.png
