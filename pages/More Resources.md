@@ -6,7 +6,7 @@ description: Want to understand more about mental health? Here are some useful l
 image: /images/Webpage assets/real_meta_image.png
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/resources_hero.png">
+<img style="width: 100%" height="auto" width="100%" alt="An illustration of two hands forming a heart shape with the thumb and index fingers." src="/images/Webpage assets/resources_hero.png">
 </div>
 <h3><strong>Want to Learn More?</strong></h3>
 <p>Follow these links to understand more about mental health.</p>
