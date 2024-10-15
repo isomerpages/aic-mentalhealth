@@ -43,7 +43,7 @@ more than a few sips. In Claire’s words, this was the ‘last straw’. She
 decided, there and then, to find support.</p>
 <p></p>
 <h3><strong>“If I don’t go, I might go crazy,” she recalls, with a laugh.</strong></h3>
-<p>Initially, she tried booking a polyclinic appointment by phone but her
+<p>Initially, she tried booking a Polyclinic appointment by phone but her
 booking got lost in the system. However, things moved along fairly quickly
 after she managed to speak to the staff in-person. They walked her through
 the process step-by-step. Claire was referred to a psychologist who was
@@ -84,3 +84,5 @@ for her.</p>
 <p><em>*These were the rates that Claire was offered at the polyclinic she went to. They are a rough guide for the community mental health rates. Actual rates might differ."</em>
 </p>
 <p></p>
+<p><em>Got a story? Share it with us at <a href="mailto:aicrealspace.sg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">aicrealspace.sg@gmail.com</a> to lend strength to someone in need.</em>
+</p>
