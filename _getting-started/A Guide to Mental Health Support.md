@@ -19,11 +19,11 @@ how they can support your mental wellbeing.</p>
 <p>If you prefer to share your feelings with others who might be experiencing
 the same thing, you can reach out to online support groups like <a href="https://www.iash.sg/mental-health-discord-singapore" rel="noopener noreferrer nofollow" target="_blank">IASH.SG Youth Discord Server</a> and
 <a href="https://huddleverse.io/" rel="noopener noreferrer nofollow" target="_blank">Huddleverse</a>.</p>
-<p>If you’re unsure about the type of support you need, you can speak to
-a social worker from your nearby Community Outreach Teams like CREST/CREST-Youth
-who will advise you. You can also consult your General Practitioner (GP)
-or polyclinic doctor about your struggles to receive an assessment and
-possible treatment.</p>
+<p>If you’re unsure about the type of mental health support you need, you
+can reach out to the care professionals from the first-stop touchpoint
+Community Outreach Teams (CREST/CREST-Youth), who will advise you. You
+can also consult your General Practitioner (GP) or Polyclinic Doctor about
+your struggles to receive an assessment and possible treatment.&nbsp;</p>
 <p></p>
 <h3><strong>If You’re Worried About Keeping Things Private</strong></h3>
 <p>Don’t be! Your visits to the doctor or a social service agency are confidential.
