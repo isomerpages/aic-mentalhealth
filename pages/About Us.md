@@ -50,7 +50,7 @@ adults. We are a space that enables under-35s to seek help without fear,
 prejudice or judgement.</p>
 <p></p>
 <h3><strong>Our Vision</strong></h3>
-<p>Enabling a tomorrow where access to mental health doesn’t have to be earned.
+<p>Enabling a tomorrow where mental health&nbsp;doesn’t have to be earned.
 It’s a right.</p>
 <p></p>
 <p></p>
@@ -60,5 +60,5 @@ It’s a right.</p>
 <h3><strong>Get Real Support From Real Experts</strong></h3>
 <p>Help is out there. Let us connect you to mental health support in your
 neighbourhood.</p>
-<p><a href="/find-support" rel="noopener noreferrer nofollow" target="_blank">Find help</a>
+<p><a href="/find-support" rel="noopener noreferrer nofollow" target="_blank">Find Support</a>
 </p>
