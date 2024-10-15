@@ -8,7 +8,7 @@ image: /images/Webpage assets/real_meta_image.png
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/financial_support_for_mental_health.png">
+<img style="width: 100%" height="auto" width="100%" alt="An illustration of two arms tied in a knot." src="/images/Webpage assets/financial_support_for_mental_health.png">
 </div>
 <p>You may be worried about the cost of mental health treatment, but services
 provided by social service agencies like CREST, CREST-Youth, COMIT, and
