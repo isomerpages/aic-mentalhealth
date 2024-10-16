@@ -54,7 +54,7 @@ image: /images/Webpage assets/real_meta_image.png
 <p>Call these 24/7 helplines if you are in distress or need to talk to someone.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Samaritans of Singapore: <a href="tel:1767" rel="noopener noreferrer nofollow" target="_blank">1-767</a> (hotline) or <a href="https://api.whatsapp.com/send/?phone=%2B6591511767&amp;text&amp;type=phone_number&amp;app_absent=0" rel="noopener noreferrer nofollow" target="_blank">9151 1767</a> (WhatsApp)</p>
+<p>Samaritans of Singapore: <a href="tel:1767" rel="noopener noreferrer nofollow" target="_blank">1767</a> (hotline) or <a href="https://api.whatsapp.com/send/?phone=%2B6591511767&amp;text&amp;type=phone_number&amp;app_absent=0" rel="noopener noreferrer nofollow" target="_blank">9151 1767</a> (WhatsApp)</p>
 </li>
 <li>
 <p>IMH helpline: <a href="tel:63892000" rel="noopener noreferrer nofollow" target="_blank">6389 2000</a>
