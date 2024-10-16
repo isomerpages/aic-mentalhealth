@@ -26,10 +26,18 @@ part of the Website at any time, without notice to you, and without liability.</
 <p>2.1 The accessibility and operation of the Website relies on technologies
 outside our control.</p>
 <p>2.2 We do not guarantee that this Website will be:?</p>
-<p>2.2.1 error-free;</p>
-<p>2.2.2 continuously available or uninterrupted in operation; or</p>
-<p>2.2.3 free of viruses or other harmful components not specifically mentioned
+<ul data-tight="true" class="tight">
+<li>
+<p>error-free;</p>
+</li>
+<li>
+<p>continuously available or uninterrupted in operation; or</p>
+</li>
+<li>
+<p>free of viruses or other harmful components not specifically mentioned
 herein.</p>
+</li>
+</ul>
 <p><strong>3. Relying on the Website’s Information</strong>
 </p>
 <p>3.1 We provide the Website as a general information source only and we
