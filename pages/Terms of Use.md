@@ -8,10 +8,11 @@ image: /images/Webpage assets/real_meta_image.png
 <h3><strong>AGREEMENT</strong></h3>
 <p><strong>1. Agreement</strong>
 </p>
-<p>1.1 Access to any part of “<a href="https://www.aic.sg”" rel="noopener noreferrer nofollow" target="_blank">https://www.aic.sg”</a> (“Website”) is governed
-by these terms and conditions (“Terms”). If you do not accept any of these
-Terms, please exit the Website immediately. Your access and/or use of this
-Website shall be deemed to be an acceptance of these Terms.</p>
+<p>1.1 Access to any part of “<a href="https://www.realspace.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.realspace.sg</a>” and “
+<a href="https://www.aic.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.aic.sg</a>” (“Website”) is governed by these terms and conditions
+(“Terms”). If you do not accept any of these Terms, please exit the Website
+immediately. Your access and/or use of this Website shall be deemed to
+be an acceptance of these Terms.</p>
 <p>1.2 In these Terms, “we”, “us” and “our” refers to Agency for Integrated
 Care Pte. Ltd. (“AIC”). “You” and “your” refers to any person brand/or
 organization accessing or using this Website.</p>
@@ -25,10 +26,18 @@ part of the Website at any time, without notice to you, and without liability.</
 <p>2.1 The accessibility and operation of the Website relies on technologies
 outside our control.</p>
 <p>2.2 We do not guarantee that this Website will be:?</p>
-<p>2.2.1 error-free;</p>
-<p>2.2.2 continuously available or uninterrupted in operation; or</p>
-<p>2.2.3 free of viruses or other harmful components not specifically mentioned
+<ul data-tight="true" class="tight">
+<li>
+<p>error-free;</p>
+</li>
+<li>
+<p>continuously available or uninterrupted in operation; or</p>
+</li>
+<li>
+<p>free of viruses or other harmful components not specifically mentioned
 herein.</p>
+</li>
+</ul>
 <p><strong>3. Relying on the Website’s Information</strong>
 </p>
 <p>3.1 We provide the Website as a general information source only and we
