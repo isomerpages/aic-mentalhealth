@@ -2,5 +2,4 @@ collections:
   website-information:
     output: true
     order:
-      - Privacy Statement.md
       - Terms of Use.md
