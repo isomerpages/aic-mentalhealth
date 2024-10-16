@@ -62,8 +62,8 @@ sections:
       cards:
         - title: IMH’s Mental Health Helpline
           description: 24-hour hotline
-          linktext: Call 6389 2000
-          url: tel:63892000
+          linktext: Call 6389 22222
+          url: tel:638922222
         - title: Samaritans of Singapore Hotline
           description: 24-hour hotline
           linktext: Call 1767
