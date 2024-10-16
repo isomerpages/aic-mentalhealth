@@ -28,5 +28,5 @@ treatment cost per year. You’ll just have to co-pay 15% of your bill.</p>
 <h3><strong>Community Health Assist Scheme (CHAS)</strong></h3>
 <p>The Community Health Assist Scheme enables all Singapore Citizens to receive
 subsidies for medical care at participating General Practitioner (GP) clinics.</p>
-<p><a href="https://placehold.co/600x400?text=Placeholder\nMore+Details+About+CHAS" rel="noopener noreferrer nofollow" target="_blank">More details here</a>
+<p><a href="https://www.chas.sg/about-the-scheme" rel="noopener noreferrer nofollow" target="_blank">More details here</a>
 </p>
