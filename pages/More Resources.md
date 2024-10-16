@@ -57,7 +57,7 @@ image: /images/Webpage assets/real_meta_image.png
 <p>Samaritans of Singapore: <a href="tel:1767" rel="noopener noreferrer nofollow" target="_blank">1767</a> (hotline) or <a href="https://api.whatsapp.com/send/?phone=%2B6591511767&amp;text&amp;type=phone_number&amp;app_absent=0" rel="noopener noreferrer nofollow" target="_blank">9151 1767</a> (WhatsApp)</p>
 </li>
 <li>
-<p>IMH helpline: <a href="tel:63892000" rel="noopener noreferrer nofollow" target="_blank">6389 2000</a>
+<p>IMH helpline: <a href="tel:63892222" rel="noopener noreferrer nofollow" target="_blank">6389 2222</a>
 </p>
 </li>
 </ul>
