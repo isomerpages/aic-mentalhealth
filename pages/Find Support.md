@@ -7,7 +7,7 @@ description: Help is always within reach. Find mental health support that suits
 image: /images/Webpage assets/real_meta_image.png
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="adnoad i [oasdiodhpsaio adiopaohdosdhao hasoihas pohasodihdasoihapsodhaisdapsodi soia dhash apso dhasoidphsapo idhaspoihaiodhsoidhaspoidhaspoi haiso ais dihd aoidh apoisdh aioshd aisod hsaoidiaosp dhaos" src="/images/Webpage assets/find_support_hero.png">
+<img style="width: 100%" height="auto" width="100%" alt="An illustration of two arms wrapping around a therapy chair." src="/images/Webpage assets/find_support_hero.png">
 </div>
 <h3><strong>Help Is Close at Hand</strong></h3>
 <p>Find mental health support within your community that suits your needs.
