@@ -7,8 +7,8 @@ description: ""
 <h3><strong>AGREEMENT</strong></h3>
 <p><strong>1. Agreement</strong>
 </p>
-<p>1.1 Access to any part of "<a href="https://www.realspace.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.realspace.sg</a>" and "
-<a href="https://www.aic.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.aic.sg</a>" (“Website”) is governed by these terms and conditions
+<p>1.1 Access to any part of “<a href="https://www.realspace.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.realspace.sg</a>” and “
+<a href="https://www.aic.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.aic.sg</a>” (“Website”) is governed by these terms and conditions
 (“Terms”). If you do not accept any of these Terms, please exit the Website
 immediately. Your access and/or use of this Website shall be deemed to
 be an acceptance of these Terms.</p>
