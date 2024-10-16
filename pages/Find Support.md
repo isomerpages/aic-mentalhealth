@@ -50,7 +50,7 @@ Healthhub.</p>
 someone urgently:
 <br>
 <br><strong>IMH’s Mental Health Hotline </strong>
-<br><a href="tel:63892000" rel="noopener nofollow" target="_blank">6389 2222</a>
+<br><a href="tel:638922222" rel="noopener nofollow" target="_blank">6389 2222</a>
 <br>
 <br><strong>Samaritans of Singapore </strong>
 <br><a href="tel:1767" rel="noopener nofollow" target="_blank">1767</a> (24-hour
