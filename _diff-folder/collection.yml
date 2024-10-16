@@ -1,0 +1,4 @@
+collections:
+  diff-folder:
+    output: true
+    order: []
