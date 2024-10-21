@@ -10,7 +10,7 @@ image: /images/Webpage assets/real_meta_image.png
 <img style="width: 100%" height="auto" width="100%" alt="An illustration of two hands connected in a circle." src="/images/Webpage assets/types_of_mental_health_support.png">
 </div>
 <p>Broadly, there are three types of mental health support that are available,
-depending on your needs. If you’re unsure, you can reach out to a first-stop
+depending on your needs. If you’re unsure, you can reach out to the first-stop
 touchpoint like Community Outreach Teams (CREST/CREST-Youth).</p>
 <p></p>
 <div class="isomer-card-grid">
