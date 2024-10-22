@@ -9,10 +9,11 @@ image: /images/Webpage assets/real_meta_image.png
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="We're REAL and we're here for you" src="/images/Webpage assets/about_us_hero.png">
 </div>
-<p>REAL is a platform powered by AIC, that’s built to give your mental health
-the care it deserves. We recognise and champion the reality of your feelings
-and emotions. You may have been taught to believe that your problems don’t
-deserve attention. Or you may be used to hearing things like:</p>
+<p>REAL is a platform powered by Agency for Integrated Care (AIC), that’s
+built to give your mental health the care it deserves. We recognise and
+champion the reality of your feelings and emotions. You may have been taught
+to believe that your problems don’t deserve attention. Or you may be used
+to hearing things like:</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="&quot;Aiyah, it's normal&quot; &quot;It's all in your head&quot;" src="/images/Webpage assets/about_us_hero_2.png">
