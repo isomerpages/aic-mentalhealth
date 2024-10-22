@@ -25,7 +25,7 @@ sections:
       title: Not Sure How to Start?
       id: infopic
       description: Don’t worry, here's all you need to know about the types of mental
-        health support available to you. Still unsure? Reach out to CREST, a
+        health support available to you. Still unsure? Reach out to CREST, the
         first-stop touchpoint.
       button: Get started
       url: /a-guide-to-mental-health-support/
