@@ -18,8 +18,8 @@ and hospitals that provide mental health support.</p>
 </p>
 <p></p>
 <h3><strong>Community Outreach Team (CREST/CREST-Youth)</strong></h3>
-<p>CREST/CREST-Youth is a first-stop touchpoint that can advise you on the
-kind of mental health support you need and provide emotional support.</p>
+<p>CREST/CREST-Youth is the first-stop touchpoint that can advise you on
+the kind of mental health support you need and provide emotional support.</p>
 <p>You can contact a CREST provider directly to make an appointment, where
 a&nbsp;trained professional will get to know you and identify your mental
 health needs. After which, they will develop a personalised plan to guide
