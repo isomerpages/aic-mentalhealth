@@ -6,7 +6,7 @@ description: Welcome to REAL, a platform built to give your mental health the
   well-being.
 image: /images/Webpage assets/logo.svg
 permalink: /
-notification: 3 In distress or need to talk to someone? Call the Samaritans of
+notification: In distress or need to talk to someone? Call the Samaritans of
   Singapore at 1767 or IMH Helpline at 63892222.
 sections:
   - hero:
