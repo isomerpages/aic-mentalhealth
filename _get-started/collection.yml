@@ -1,0 +1,9 @@
+collections:
+  get-started:
+    output: true
+    order:
+      - A Guide to Mental Health Support.md
+      - Types of Mental Health Support.md
+      - Common Types of Treatment.md
+      - Find Support Within Your Community.md
+      - Financial Support for Mental Health.md

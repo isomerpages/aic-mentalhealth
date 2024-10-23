@@ -1,15 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Webpage assets/logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    url: /about-us
+  - title: Get Started
+    collection: get-started
+  - title: Find Support
+    url: /find-support/
+  - title: More Resources
+    url: /more-resources
+  - title: Real Stories
+    resource_room: true
