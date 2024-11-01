@@ -53,7 +53,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging-lite.d16ie9v1oj6crq.amplifyapp.com
 prod: https://master.d1e9g40hlag6o0.amplifyapp.com
-facebook-pixel: ""
+facebook-pixel: "883288303931104"
 shareicon: /images/Webpage assets/logo.svg
 is_government: true
 google_analytics_ga4: G-NYSS3SKTH3
