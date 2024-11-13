@@ -187,5 +187,4 @@ in relation to all disputes and any claim relating to use of this Website.</p>
 </p>
 <p>15.1 If any provision in these Terms is found invalid or unenforceable,
 that provision shall be enforced to the maximum extent possible, and the
-other provisions contained herein will remain in full force and effect.
-.</p>
+other provisions contained herein will remain in full force and effect.</p>
