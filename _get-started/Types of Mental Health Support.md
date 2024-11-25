@@ -34,7 +34,7 @@ and behaviours to treat specific mental health conditions and disorders.</div>
 <div class="isomer-card-description">For individuals with more intensive mental health concerns, treatments
 like psychiatric medicine, rehabilitation, or emergency services might
 be recommended. *Parental consent is required for these services if you’re
-18 or younger.</div>
+18 or younger.*</div>
 </div>
 </div>
 </div>
