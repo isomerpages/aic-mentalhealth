@@ -30,7 +30,7 @@ sections:
       button: Get started
       url: /a-guide-to-mental-health-support/
       image: /images/Webpage assets/image_container.png
-      alt: people who are stuck
+      alt: A figure with a door stomach
   - infopic:
       title: Where Can I Get Help?
       id: infopic
