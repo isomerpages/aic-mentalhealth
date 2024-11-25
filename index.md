@@ -32,15 +32,6 @@ sections:
       image: /images/Webpage assets/image_container.png
       alt: A figure with a door stomach
   - infopic:
-      title: Unsure of what you're feeling?
-      id: infopic
-      description: Anxiety looks different on different people. Watch ‘Burnout’, our
-        short film following a first-jobber as she navigates work stresses with
-        her fiery anxiety.
-      button: Watch Now
-      url: https://www.youtube.com/watch?v=dDD0kBFE3b8
-      image: /images/Webpage assets/burnout_video.jpg
-  - infopic:
       title: Where Can I Get Help?
       id: infopic
       description: We’ll help you find support that’s right for you within your
@@ -49,6 +40,16 @@ sections:
       url: /find-support
       image: /images/Webpage assets/where_can_i_get_help.png
       alt: A figure with a door stomach
+  - infopic:
+      title: Unsure of what you're feeling?
+      id: infopic
+      description: Anxiety looks different on different people. Watch ‘Burnout’, our
+        short film following a first-jobber as she navigates work stresses with
+        her fiery anxiety.
+      button: Watch Now
+      url: https://www.youtube.com/watch?v=dDD0kBFE3b8
+      image: /images/Webpage assets/burnout_video.jpg
+      alt: a girl experiencing burnout
   - infopic:
       title: Want to Learn More?
       id: infopic
