@@ -40,7 +40,6 @@ sections:
       url: /find-support
       image: /images/Webpage assets/where_can_i_get_help.png
       alt: A figure with a door stomach
-      subtitle: how do I get help?
   - infopic:
       title: Want to Learn More?
       id: infopic
@@ -72,4 +71,12 @@ sections:
           description: 24-hour CareText via WhatsApp
           linktext: Text 9151 1767
           url: https://api.whatsapp.com/send/?phone=%2B6591511767&text&type=phone_number&app_absent=0
+  - infobar:
+      title: Unsure of what you're feeling?
+      id: infobar
+      description: Anxiety looks different on different people. Watch ‘Burnout’, our
+        short film following a first-jobber as she navigates work stresses with
+        her fiery anxiety.
+      button: Watch now
+      url: https://www.youtube.com/watch?v=dDD0kBFE3b8
 ---
