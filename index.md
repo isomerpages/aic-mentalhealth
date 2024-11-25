@@ -49,7 +49,7 @@ sections:
       button: More Resources
       url: /more-resources/
       image: /images/Webpage assets/eager_to_learn_more.png
-      alt: care to learn more
+      alt: Two hands making a heart shape
   - resources:
       title: Real Stories
       id: resources
