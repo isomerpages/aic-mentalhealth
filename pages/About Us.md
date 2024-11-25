@@ -7,7 +7,7 @@ description: Learn more about REAL, a safe space supported by AIC, that
 image: /images/Webpage assets/real_meta_image.png
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="We’re REAL and we’re here for you”" src="/images/Webpage assets/about_us_hero.png">
+<img style="width: 100%" height="auto" width="100%" alt="“We’re REAL and we’re here for you” as text, and an illustrated waving hand" src="/images/Webpage assets/about_us_hero.png">
 </div>
 <p>REAL is a platform powered by Agency for Integrated Care (AIC), that’s
 built to give your mental health the care it deserves. We recognise and
