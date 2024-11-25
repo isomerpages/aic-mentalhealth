@@ -12,7 +12,7 @@ image: /images/Webpage assets/real_meta_image.png
 your mental health journey. Many social service agencies are fully funded
 by the government and there is no out-of-pocket cost. These include the
 Community Outreach Teams (CREST/CREST-Youth) and Community Intervention
-Teams (COMIT)/Youth Integrated Teams (YIT). There are also GPs, polyclinics,
+Teams (COMIT)/Youth Integrated Teams (YIT). There are also GPs, Polyclinics,
 and hospitals that provide mental health support.</p>
 <p><a href="/find-support/" rel="noopener noreferrer nofollow" target="_blank">Search for Community Mental Health Services here</a>
 </p>
