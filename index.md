@@ -39,7 +39,7 @@ sections:
       button: Find support
       url: /find-support
       image: /images/Webpage assets/where_can_i_get_help.png
-      alt: a person with an open door.
+      alt: A figure with a door stomach
       subtitle: how do I get help?
   - infopic:
       title: Want to Learn More?
