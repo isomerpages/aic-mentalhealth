@@ -79,4 +79,14 @@ sections:
           description: 24-hour CareText via WhatsApp
           linktext: Text 9151 1767
           url: https://api.whatsapp.com/send/?phone=%2B6591511767&text&type=phone_number&app_absent=0
+  - infopic:
+      title: Unsure of what you're feeling?
+      id: infopic
+      description: Anxiety looks different on different people. Watch ‘Burnout’, our
+        short film following a first-jobber as she navigates work stresses with
+        her fiery anxiety.
+      button: Watch Now
+      url: https://www.youtube.com/watch?v=dDD0kBFE3b8
+      image: /images/Webpage assets/burnout_video.jpg
+      alt: Image alt text
 ---
