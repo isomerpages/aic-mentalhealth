@@ -34,7 +34,7 @@ days.&nbsp;
 <br>
 <br>For GPs, call ahead to make an appointment before your visit.
 <br>
-<br>For polyclinics, you can make an appointment for consultation through
+<br>For Polyclinics, you can make an appointment for consultation through
 Healthhub.</p>
 <p></p>
 <p></p>
