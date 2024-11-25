@@ -49,7 +49,7 @@ Healthhub.</p>
 <p>Contact any of these 24-hour services if you feel you need to speak to
 someone urgently:
 <br>
-<br><strong>IMH’s Mental Health Hotline </strong>
+<br><strong>IMH’s Mental Health Helpline</strong>
 <br><a href="tel:63892222" rel="noopener nofollow" target="_blank">6389 2222</a>
 <br>
 <br><strong>Samaritans of Singapore </strong>
