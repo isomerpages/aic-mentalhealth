@@ -88,5 +88,4 @@ sections:
       button: Watch Now
       url: https://www.youtube.com/watch?v=dDD0kBFE3b8
       image: /images/Webpage assets/burnout_video.jpg
-      alt: Image alt text
 ---
