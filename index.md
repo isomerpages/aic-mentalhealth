@@ -15,7 +15,7 @@ sections:
       title: \
   - infobar:
       title: Welcome to REAL.
-      subtitle: We see you, we get you
+      subtitle: WE SEE YOU. WE GET YOU.
       description: Your feelings, no matter how big or small, deserve real support.
         REAL is a safe space that connects you to mental health support you
         need.
