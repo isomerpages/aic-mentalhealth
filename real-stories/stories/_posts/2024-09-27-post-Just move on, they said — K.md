@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/just-move-on-hero.png">
+<img style="width: 100%" height="auto" width="100%" alt="An array of Disney Baymax figurines, plushies and toys" src="/images/Webpage assets/just-move-on-hero.png">
 </div>
 <p><em>K's safe space is at her partner's house. And the Disney Baymax characters? Oh, they've been her supportive friends since Secondary School.</em>
 </p>
