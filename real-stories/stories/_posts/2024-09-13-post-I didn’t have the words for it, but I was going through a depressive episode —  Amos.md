@@ -12,10 +12,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Cat figurine meditating on the edge of a concrete step" src="/images/Webpage assets/depressive-episode-hero.png">
 </div>
-<p>Everyone does self-care differently. For Amos, meditation is pretty much
-a must-do. This photo is taken outside the NUS therapy clinic where he
-sought help. Today he is doing his placement at the same clinic!</p>
-<p></p>
+<p><em>Everyone does self-care differently. For Amos, meditation is pretty much a must-do. This photo is taken outside one of the therapy clinics where he sought help.</em>
+</p>
 <p>Amos grew up in what he calls a ‘fairly typical’ Singaporean household–with
 just one tiny diﬀerence.</p>
 <p></p>
@@ -65,12 +63,9 @@ what he could do to help himself.
 and sharing what I'm experiencing, how I'm feeling. Putting words to emotions
 and not being afraid to be vulnerable,” he recalled.
 <br>
-<br>Today, Amos supports others from the opposite side of the therapy room,
-as he studies and trains to be a clinical psychologist. His lived experience
-motivates and drives him to wake up every morning, to do the best for his
-clients. However, his own journey with his mental health is not yet over.
-He still has good days and bad days, but he has learned to manage them
-with self-care routines and practices he finds helpful.
+<br>Today, Amos' journey with his mental health is still ongoing. He has good
+days and bad days, but he has learnt to manage them with self-care routines
+and practices he finds helpful.
 <br>
 <br>Despite the setbacks, Amos came a long way. He shares his story of seeking
 mental health support, in the hopes that others will embrace their own
