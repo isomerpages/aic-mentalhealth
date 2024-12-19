@@ -7,16 +7,16 @@ description: Learn more about REAL, a safe space supported by AIC, that
 image: /images/Webpage assets/real_meta_image.png
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="We're REAL and we're here for you" src="/images/Webpage assets/about_us_hero.png">
+<img style="width: 100%" height="auto" width="100%" alt="“We’re REAL and we’re here for you” as text, and an illustrated waving hand" src="/images/Webpage assets/about_us_hero.png">
 </div>
-<p>REAL is a platform powered by Agency for Integrated Care (AIC), that’s
+<p>REAL is a platform supported by Agency for Integrated Care (AIC), that’s
 built to give your mental health the care it deserves. We recognise and
 champion the reality of your feelings and emotions. You may have been taught
 to believe that your problems don’t deserve attention. Or you may be used
 to hearing things like:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="&quot;Aiyah, it's normal&quot; &quot;It's all in your head&quot;" src="/images/Webpage assets/about_us_hero_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Common phrases like “Aiyah, it’s normal” and “It’s all in your head” in speech bubbles" src="/images/Webpage assets/about_us_hero_2.png">
 </div>
 <p>REAL is trying to change this. We will never gaslight you. Your mental
 health deserves care and help, not doubts and dismissals. If you feel it,
@@ -65,3 +65,21 @@ It’s a right.</p>
 neighbourhood.</p>
 <p><a href="/find-support" rel="noopener noreferrer nofollow" target="_blank">Find Support</a>
 </p>
+<p></p>
+<h3><strong>Learn more from us:</strong></h3>
+<p>We are also available in the following social platforms:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.youtube.com/@realspacesg" rel="noopener nofollow" target="_blank">Youtube</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.instagram.com/realspace.sg" rel="noopener nofollow" target="_blank">Instagram</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.tiktok.com/@realspace.sg" rel="noopener nofollow" target="_blank">Tiktok</a>
+</p>
+</li>
+</ul>
+<p></p>

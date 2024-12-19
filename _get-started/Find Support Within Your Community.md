@@ -12,7 +12,7 @@ image: /images/Webpage assets/real_meta_image.png
 your mental health journey. Many social service agencies are fully funded
 by the government and there is no out-of-pocket cost. These include the
 Community Outreach Teams (CREST/CREST-Youth) and Community Intervention
-Teams (COMIT)/Youth Integrated Teams (YIT). There are also GPs, polyclinics,
+Teams (COMIT)/Youth Integrated Teams (YIT). There are also GPs, Polyclinics,
 and hospitals that provide mental health support.</p>
 <p><a href="/find-support/" rel="noopener noreferrer nofollow" target="_blank">Search for Community Mental Health Services here</a>
 </p>
@@ -42,6 +42,6 @@ first and they will help advise you.</p>
 <p>During your appointment, the GP or Polyclinic Doctor will assess your
 condition to determine your diagnosis and prescribe medication if necessary.</p>
 <p>You may also be referred to COMIT for therapy and support.</p>
-<p><a href="https://mindline.sg/youth/mental-health-service-providers/search?type=medical-advice" rel="noopener noreferrer nofollow" target="_blank">Find a GP or polyclinic near you here</a>
+<p><a href="https://mindline.sg/youth/mental-health-service-providers/search?type=medical-advice" rel="noopener noreferrer nofollow" target="_blank">Find a GP or Polyclinics near you here</a>
 </p>
 <p></p>

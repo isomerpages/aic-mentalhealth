@@ -15,7 +15,7 @@ sections:
       title: \
   - infobar:
       title: Welcome to REAL.
-      subtitle: We see you, we get you
+      subtitle: WE SEE YOU. WE GET YOU.
       description: Your feelings, no matter how big or small, deserve real support.
         REAL is a safe space that connects you to mental health support you
         need.
@@ -30,7 +30,7 @@ sections:
       button: Get started
       url: /a-guide-to-mental-health-support/
       image: /images/Webpage assets/image_container.png
-      alt: people who are stuck
+      alt: A figure with a door stomach
   - infopic:
       title: Where Can I Get Help?
       id: infopic
@@ -39,8 +39,17 @@ sections:
       button: Find support
       url: /find-support
       image: /images/Webpage assets/where_can_i_get_help.png
-      alt: a person with an open door.
-      subtitle: how do I get help?
+      alt: A figure with a door stomach
+  - infopic:
+      title: Unsure of what you're feeling?
+      id: infopic
+      description: Anxiety looks different on different people. Watch ‘Burnout’, our
+        short film following a first-jobber as she navigates work stresses with
+        her fiery anxiety.
+      button: Watch Now
+      url: https://www.youtube.com/watch?v=dDD0kBFE3b8
+      image: /images/Webpage assets/burnout_video.jpg
+      alt: a girl experiencing burnout
   - infopic:
       title: Want to Learn More?
       id: infopic
@@ -49,7 +58,7 @@ sections:
       button: More Resources
       url: /more-resources/
       image: /images/Webpage assets/eager_to_learn_more.png
-      alt: care to learn more
+      alt: Two hands making a heart shape
   - resources:
       title: Real Stories
       id: resources

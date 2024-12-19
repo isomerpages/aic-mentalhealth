@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webpage assets/the-other-pandemic-hero.png">
+<img style="width: 100%" height="auto" width="100%" alt="Sketchbook and watercolour paints on a picnic mat, looking out onto a reservoir" src="/images/Webpage assets/the-other-pandemic-hero.png">
 </div>
 <p><em>During her first three months, Claire spent a lot of her off-days laying in the park and doing watercolours. It was her way of Grounding and finding a little joy for herself.</em>
 </p>

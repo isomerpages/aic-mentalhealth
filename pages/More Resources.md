@@ -6,7 +6,7 @@ description: Want to understand more about mental health? Here are some useful l
 image: /images/Webpage assets/real_meta_image.png
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="An illustration of two hands forming a heart shape with the thumb and index fingers." src="/images/Webpage assets/resources_hero.png">
+<img style="width: 100%" height="auto" width="100%" alt="Two hands making a heart shape" src="/images/Webpage assets/resources_hero.png">
 </div>
 <h3><strong>Want to Learn More?</strong></h3>
 <p>Follow these links to understand more about mental health.</p>
@@ -57,7 +57,7 @@ image: /images/Webpage assets/real_meta_image.png
 <p>Samaritans of Singapore: <a href="tel:1767" rel="noopener noreferrer nofollow" target="_blank">1767</a> (hotline) or <a href="https://api.whatsapp.com/send/?phone=%2B6591511767&amp;text&amp;type=phone_number&amp;app_absent=0" rel="noopener noreferrer nofollow" target="_blank">9151 1767</a> (WhatsApp)</p>
 </li>
 <li>
-<p>IMH helpline: <a href="tel:63892222" rel="noopener noreferrer nofollow" target="_blank">6389 2222</a>
+<p>IMH’s Mental Health Helpline: <a href="tel:63892222" rel="noopener noreferrer nofollow" target="_blank">6389 2222</a>
 </p>
 </li>
 </ul>

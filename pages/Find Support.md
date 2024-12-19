@@ -15,7 +15,7 @@ Your visits will be kept strictly confidential, so you don’t have to worry
 about keeping things private.</p>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://mindline.sg/youth/mental-health-service-providers/search?type=enquiry-support" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">If You’re Not Sure&nbsp;</div><div class="isomer-card-description">You can reach out to a Community Outreach Team, the first-stop touchpoint for mental health support. The teams can help identify your mental health needs, provide emotional support, and link you to other services. CREST is fully funded by the government and there is no out-of-pocket cost.&nbsp;</div><div class="isomer-card-link">Find your nearest Community Outreach Team (CREST)</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://mindline.sg/youth/mental-health-service-providers/search?type=enquiry-support" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">If You’re Not Sure&nbsp;</div><div class="isomer-card-description">You can reach out to a Community Outreach Team, a first-stop touchpoint for mental health support. The teams can help identify your mental health needs, provide emotional support, and link you to other services. CREST is fully funded by the government and there is no out-of-pocket cost.&nbsp;</div><div class="isomer-card-link">Find your nearest Community Outreach Team (CREST)</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://mindline.sg/youth/mental-health-service-providers/search?type=therapy-counselling" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">If You Need a Counsellor/Therapist</div>
@@ -34,7 +34,7 @@ days.&nbsp;
 <br>
 <br>For GPs, call ahead to make an appointment before your visit.
 <br>
-<br>For polyclinics, you can make an appointment for consultation through
+<br>For Polyclinics, you can make an appointment for consultation through
 Healthhub.</p>
 <p></p>
 <p></p>
@@ -49,7 +49,7 @@ Healthhub.</p>
 <p>Contact any of these 24-hour services if you feel you need to speak to
 someone urgently:
 <br>
-<br><strong>IMH’s Mental Health Hotline </strong>
+<br><strong>IMH’s Mental Health Helpline</strong>
 <br><a href="tel:63892222" rel="noopener nofollow" target="_blank">6389 2222</a>
 <br>
 <br><strong>Samaritans of Singapore </strong>
