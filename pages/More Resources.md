@@ -12,7 +12,7 @@ image: /images/Webpage assets/real_meta_image.png
 <p>Follow these links to understand more about mental health.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.healthhub.sg/programmes/mindsg/discover#home" rel="noopener noreferrer nofollow" target="_blank">MindSG by Healthhub</a>
+<p><a href="https://www.healthhub.sg/programmes/mindsg/discover#home" rel="noopener noreferrer nofollow" target="_blank">MindSG</a>
 </p>
 </li>
 <li>
