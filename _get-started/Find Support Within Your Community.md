@@ -25,7 +25,7 @@ a&nbsp;trained professional will get to know you and identify your mental
 health needs. After which, they will develop a personalised plan to guide
 you on your mental health journey and connect you to additional support
 like counselling or therapy.</p>
-<p><a href="https://mindline.sg/youth/mental-health-service-providers/search?type=enquiry-support" rel="noopener noreferrer nofollow" target="_blank">Find CREST providers near you here</a>
+<p><a href="https://mindline.sg/youth/mental-health-service-providers/search?type=enquiry-support&amp;utm_source=realspace&amp;utm_medium=web-app&amp;utm_campaign=service-wayfinding&amp;utm_content=enquiry-support&amp;utm_term=none" rel="noopener noreferrer nofollow" target="_blank">Find CREST providers near you here</a>
 </p>
 <p></p>
 <h3><strong>Community Intervention Team (COMIT) / Youth Integrated Team (YIT)</strong></h3>
@@ -35,13 +35,13 @@ and therapy.</p>
 if you’re seeking counselling or therapy. But if you’re unsure about the
 kind of treatment you need, try making an appointment with a CREST provider
 first and they will help advise you.</p>
-<p><a href="https://mindline.sg/youth/mental-health-service-providers/search?type=therapy-counselling" rel="noopener noreferrer nofollow" target="_blank">Find COMIT/YIT providers near you here</a>
+<p><a href="https://mindline.sg/youth/mental-health-service-providers/search?type=therapy-counselling&amp;utm_source=realspace&amp;utm_medium=web-app&amp;utm_campaign=service-wayfinding&amp;utm_content=therapy-counselling&amp;utm_term=none" rel="noopener noreferrer nofollow" target="_blank">Find COMIT/YIT providers near you here</a>
 </p>
 <p></p>
 <h3><strong>General Practitioners (GP) or Polyclinic Doctors</strong></h3>
 <p>During your appointment, the GP or Polyclinic Doctor will assess your
 condition to determine your diagnosis and prescribe medication if necessary.</p>
 <p>You may also be referred to COMIT for therapy and support.</p>
-<p><a href="https://mindline.sg/youth/mental-health-service-providers/search?type=medical-advice" rel="noopener noreferrer nofollow" target="_blank">Find a GP or Polyclinics near you here</a>
+<p><a href="https://mindline.sg/youth/mental-health-service-providers/search?type=medical-advice&amp;utm_source=realspace&amp;utm_medium=web-app&amp;utm_campaign=service-wayfinding&amp;utm_content=medical-advice&amp;utm_term=none" rel="noopener noreferrer nofollow" target="_blank">Find a GP or Polyclinics near you here</a>
 </p>
 <p></p>
