@@ -16,7 +16,7 @@ image: /images/Webpage assets/real_meta_image.png
 </p>
 </li>
 <li>
-<p><a href="https://mindline.sg/" rel="noopener noreferrer nofollow" target="_blank">Mindline by MOH Office for Healthcare Transformation (MOHT)</a>
+<p><a href="https://mindline.sg/?utm_source=realspace&amp;utm_medium=web-app&amp;utm_campaign=general&amp;utm_content=homepage&amp;utm_term=none" rel="noopener noreferrer nofollow" target="_blank">mindline by MOH Office for Healthcare Transformation (MOHT)</a>
 </p>
 </li>
 <li>
@@ -43,10 +43,10 @@ image: /images/Webpage assets/real_meta_image.png
 <ul data-tight="true" class="tight">
 <li>
 <p>If you prefer in-person help, reach out to the first-stop touchpoint,
-<a href="https://mindline.sg/youth/mental-health-service-providers/search?type=enquiry-support" rel="noopener noreferrer nofollow" target="_blank">Community Outreach Team (CREST)</a>.</p>
+<a href="https://mindline.sg/youth/mental-health-service-providers/search?type=enquiry-support&amp;utm_source=realspace&amp;utm_medium=web-app&amp;utm_campaign=service-wayfinding&amp;utm_content=enquiry-support&amp;utm_term=none" rel="noopener noreferrer nofollow" target="_blank">Community Outreach Team (CREST)</a>.</p>
 </li>
 <li>
-<p>If you prefer digital answers, seek help at <a href="http://mindline.sg" rel="noopener noreferrer nofollow" target="_blank">mindline.sg</a>.</p>
+<p>If you prefer digital answers, seek help at <a href="https://mindline.sg/?utm_source=realspace&amp;utm_medium=web-app&amp;utm_campaign=general&amp;utm_content=homepage&amp;utm_term=none" rel="noopener noreferrer nofollow" target="_blank">mindline.sg</a>.</p>
 </li>
 </ul>
 <p></p>
