@@ -23,6 +23,12 @@ image: /images/Webpage assets/real_meta_image.png
 <p><a href="https://www.aic.sg/caregiving/caring-for-loved-one-with-mental-health-conditions/" rel="noopener noreferrer nofollow" target="_blank">Agency for Integrated Care (AIC) mental health page</a>
 </p>
 </li>
+<li>
+<p>Visit grovve at *SCAPE level 4 –an integrated wellness centre offering
+you a safe space to recharge, unwind, and explore workshops and activities
+that boost your well-being! Check out self-help resources and event calendar
+<a href="https://grovve.sg" rel="noopener nofollow" target="_blank">here</a>.</p>
+</li>
 </ul>
 <p></p>
 <h3><strong>Should I Seek Support?</strong></h3>

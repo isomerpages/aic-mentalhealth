@@ -22,6 +22,15 @@ sections:
       button: About us
       url: /about-us
   - infopic:
+      title: Feeling some kind of way?
+      id: infopic
+      description: You’re not alone. Reach out to the Community Mental Health teams If
+        you are feeling sad, stressed or need someone to talk to.
+      button: CHECK IT OUT
+      url: https://www.mindline.sg/mental-health-service-providers/search
+      image: /images/Webpage assets/cmh_wayfinding.png
+      alt: Image alt text
+  - infopic:
       title: Not Sure How to Start?
       id: infopic
       description: Don’t worry, here's all you need to know about the types of mental
