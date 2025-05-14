@@ -24,7 +24,7 @@ sections:
   - infopic:
       title: Feeling some kind of way?
       id: infopic
-      description: You’re not alone. Reach out to the Community Mental Health teams If
+      description: You’re not alone. Reach out to the Community Mental Health teams if
         you are feeling sad, stressed or need someone to talk to.
       button: CHECK IT OUT
       url: https://www.mindline.sg/mental-health-service-providers/search
