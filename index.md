@@ -82,7 +82,7 @@ sections:
           description: 24-hour hotline
           linktext: Call 1771
           url: tel:1771
-        - title: naitonal mindline 1771
+        - title: national mindline 1771
           description: 24-hour text (WhatsApp)
           linktext: Text 6669 1771
           url: https://api.whatsapp.com/send/?phone=%2B6566691771&text&type=phone_number&app_absent=0
