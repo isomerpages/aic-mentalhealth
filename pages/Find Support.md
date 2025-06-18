@@ -49,8 +49,9 @@ Healthhub.</p>
 <p>Contact any of these 24-hour services if you feel you need to speak to
 someone urgently:
 <br>
-<br><strong>IMH’s Mental Health Helpline</strong>
-<br><a href="tel:63892222" rel="noopener nofollow" target="_blank">6389 2222</a>
+<br><strong>national mindline</strong>
+<br><a href="tel:1771" rel="noopener nofollow" target="_blank">Call 1771</a> /
+<a href="sms:66691771" rel="noopener nofollow" target="_blank">Text 6669 1771</a>
 <br>
 <br><strong>Samaritans of Singapore </strong>
 <br><a href="tel:1767" rel="noopener nofollow" target="_blank">1767</a> (24-hour
