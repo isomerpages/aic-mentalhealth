@@ -60,10 +60,12 @@ that boost your well-being! Check out self-help resources and event calendar
 <p>Call these 24/7 helplines if you are in distress or need to talk to someone.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Samaritans of Singapore: <a href="tel:1767" rel="noopener noreferrer nofollow" target="_blank">1767</a> (hotline) or <a href="https://api.whatsapp.com/send/?phone=%2B6591511767&amp;text&amp;type=phone_number&amp;app_absent=0" rel="noopener noreferrer nofollow" target="_blank">9151 1767</a> (WhatsApp)</p>
+<p>national mindline 1771: <a href="tel:1771" rel="noopener nofollow" target="_blank">Call 1771</a> /
+<a href="https://api.whatsapp.com/send/?phone=%2B6566691771&amp;text&amp;type=phone_number&amp;app_absent=0" rel="noopener nofollow" target="_blank">Text 6669 1771</a>
+</p>
 </li>
 <li>
-<p>IMH’s Mental Health Helpline: <a href="tel:63892222" rel="noopener noreferrer nofollow" target="_blank">6389 2222</a>
+<p>Samaritans of Singapore: <a href="tel:1767" rel="noopener nofollow" target="_blank">Call 1767</a>
 </p>
 </li>
 </ul>
