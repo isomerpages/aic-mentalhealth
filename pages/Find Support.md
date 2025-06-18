@@ -49,7 +49,7 @@ Healthhub.</p>
 <p>Contact any of these 24-hour services if you feel you need to speak to
 someone urgently:
 <br>
-<br><strong>national mindline</strong>
+<br><strong>national mindline 1771</strong>
 <br><a href="tel:1771" rel="noopener nofollow" target="_blank">Call 1771</a> /
 <a href="https://api.whatsapp.com/send/?phone=%2B6566691771&amp;text&amp;type=phone_number&amp;app_absent=0" rel="noopener nofollow" target="_blank">Text 6669 1771</a>
 <br>
