@@ -54,7 +54,5 @@ someone urgently:
 <a href="sms:66691771" rel="noopener nofollow" target="_blank">Text 6669 1771</a>
 <br>
 <br><strong>Samaritans of Singapore </strong>
-<br><a href="tel:1767" rel="noopener nofollow" target="_blank">1767</a> (24-hour
-hotline)
-<br>or <a href="https://api.whatsapp.com/send/?phone=%2B6591511767&amp;text&amp;type=phone_number&amp;app_absent=0" rel="noopener nofollow" target="_blank">9151 1767</a> (24-hour
-CareText via WhatsApp)</p>
+<br><a href="tel:1767" rel="noopener nofollow" target="_blank">1767</a>
+</p>
