@@ -54,5 +54,5 @@ someone urgently:
 <a href="https://api.whatsapp.com/send/?phone=%2B6566691771&amp;text&amp;type=phone_number&amp;app_absent=0" rel="noopener nofollow" target="_blank">Text 6669 1771</a>
 <br>
 <br><strong>Samaritans of Singapore </strong>
-<br><a href="tel:1767" rel="noopener nofollow" target="_blank">1767</a>
+<br><a href="tel:1767" rel="noopener nofollow" target="_blank">Call 1767</a>
 </p>
