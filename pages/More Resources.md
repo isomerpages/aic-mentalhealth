@@ -60,7 +60,7 @@ that boost your well-being! Check out self-help resources and event calendar
 <p>Call these 24/7 helplines if you are in distress or need to talk to someone.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>national mindline 1771: <a href="&quot;tel:1771&quot;" rel="noopener nofollow" target="_blank">Call 1771</a> /
+<p>national mindline 1771: <a href="tel:1771" rel="noopener nofollow" target="_blank">Call 1771</a> /
 <a href="https://api.whatsapp.com/send/?phone=%2B6566691771&amp;text&amp;type=phone_number&amp;app_absent=0" rel="noopener nofollow" target="_blank">Text 6669 1771</a>
 </p>
 </li>
