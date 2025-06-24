@@ -8,7 +8,22 @@ image: /images/Webpage assets/real_meta_image.png
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Two hands making a heart shape" src="/images/Webpage assets/resources_hero.png">
 </div>
+<h3><strong>Your First Stop for Mental Health</strong></h3>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://for.sg/wayfinding" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit In-Person</div><div class="isomer-card-description">Find your Community Mental Health team near you for emotional support, therapy and counselling.</div><div class="isomer-card-link">Find your Community Mental Health team</div></div></a>
+<a rel="noopener noreferrer nofollow" href="tel:1771" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Call/Text</div>
+<div class="isomer-card-description">Talk to a mental health counsellor 24/7 at 1771. Free, anonymous and confidential
+support.</div>
+<div class="isomer-card-link">Call 1771</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://mindline.sg/?utm_source=realspace&amp;utm_medium=web-app&amp;utm_campaign=general&amp;utm_content=homepage&amp;utm_term=none" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Click</div><div class="isomer-card-description">Explore self-help resources, e.g. online self-assessment via mindline.sg to learn about well-being</div><div class="isomer-card-link">mindline.sg</div></div></a>
+</div>
 <h3><strong>Want to Learn More?</strong></h3>
+<p>Keen to learn the signs and symptoms of mental health conditions and how
+to support persons with mental health issues? Learn at your own pace via
+e-learning.</p>
 <p>Follow these links to understand more about mental health.</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -41,18 +56,6 @@ that boost your well-being! Check out self-help resources and event calendar
 <li>
 <p><a href="https://www.healthhub.sg/programmes/mindsg/caring-for-ourselves/understanding-depression-adults#self-assessment-home" rel="noopener noreferrer nofollow" target="_blank">Is it depression?</a>
 </p>
-</li>
-</ul>
-<p></p>
-<h3><strong>Looking for First-Stop Support?</strong></h3>
-<p>We’ve got you. We’ve got different types of support available for you.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>If you prefer in-person help, reach out to the first-stop touchpoint,
-<a href="https://mindline.sg/youth/mental-health-service-providers/search?type=enquiry-support&amp;utm_source=realspace&amp;utm_medium=web-app&amp;utm_campaign=service-wayfinding&amp;utm_content=enquiry-support&amp;utm_term=none" rel="noopener noreferrer nofollow" target="_blank">Community Outreach Team (CREST)</a>.</p>
-</li>
-<li>
-<p>If you prefer digital answers, seek help at <a href="https://mindline.sg/?utm_source=realspace&amp;utm_medium=web-app&amp;utm_campaign=general&amp;utm_content=homepage&amp;utm_term=none" rel="noopener noreferrer nofollow" target="_blank">mindline.sg</a>.</p>
 </li>
 </ul>
 <p></p>
