@@ -83,3 +83,22 @@ neighbourhood.</p>
 </li>
 </ul>
 <p></p>
+<h3><strong>In Case You Miss It #ICYMI</strong></h3>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TFW You Get The Emotional Support You Need</div><div class="isomer-card-description">Life can't be smooth-sailing all the time - there are times you may need a little help making sense of all those feelings rushing over you. And that's perfectly understandable...</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">TFW You Get The Emotional Support You Need</div>
+<div class="isomer-card-description">Should you tell your boss about your mental health? When I first shared
+my mental health history, I was terrified of being judged. Would it cost
+me opportunities?...</div>
+<div class="isomer-card-link">Read more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Here's your sign to feel your feelings</div><div class="isomer-card-description">When life gets round, we are here to sit with you through this journey. And when you're ready to seek help, scan the QR code on these benches to be matched to the support nearest...</div><div class="isomer-card-link">Read more</div></div></a>
+</div>
+<p></p>
