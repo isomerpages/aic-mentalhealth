@@ -44,4 +44,5 @@ her story and supporting others on their mental health journeys. HK’s experien
 serves as a reminder that while the path may be challenging, it’s also
 filled with opportunities for growth and healing.</p>
 <h3><strong>"Having good mental health helps me to look forward to the future instead of fixating on the past. What keeps me going is the people I love, and that matters to me a lot. "</strong></h3>
-<p></p>
+<p><em>Got a story? Share it with us at <a href="mailto:aicrealspace.sg@gmail.com" rel="noopener noreferrer nofollow" target="_blank"><u>aicrealspace.sg@gmail.com</u></a> to lend strength to someone in need.</em>
+</p>
