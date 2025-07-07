@@ -11,14 +11,12 @@ variant: tiptap
 <p>Shannon's world began to crumble in 2016 with the death of her grandfather,
 the one person who had always been her confidante and protector. His absence
 left a void that felt insurmountable.</p>
-<p><strong>"I felt my world falling apart," she recalled, grappling with the profound loss.</strong>
-</p>
+<h3><strong>"I felt my world falling apart," she recalled, grappling with the profound loss.</strong></h3>
 <p>The following year, tragedy struck again when Shannon became a victim
 of sexual assault. This harrowing experience compounded her grief and left
 her feeling isolated and vulnerable. As the years passed, she faced relentless
 bullying at school, which only deepened her anxiety and despair.</p>
-<p><strong>"I was left all alone, with no one to turn to," she lamented, as the weight of her struggles became unbearable.</strong>
-</p>
+<h3><strong>"I was left all alone, with no one to turn to," she lamented, as the weight of her struggles became unbearable.</strong></h3>
 <p>In a desperate attempt to escape the pain, Shannon made the difficult
 decision to drop out of school. Instead of relief, it marked the saddest
 point in her life. "I felt suicidal”, she shared, revealing the depths
@@ -27,14 +25,12 @@ the verge of taking her own life.</p>
 <p>Just when hope seemed lost, a lifeline appeared in the form of a call
 from ZL, a case worker from the Community Mental Health team at Singapore
 Association for Mental Health (SAMH).</p>
-<p><strong>"It was the first time that I truly felt listened to," Shannon expressed, her gratitude palpable. Without that call, she believes she might not be here today.</strong>
-</p>
+<h3><strong>"It was the first time that I truly felt listened to," Shannon expressed, her gratitude palpable. Without that call, she believes she might not be here today.</strong></h3>
 <p>Shannon began attending regular counseling sessions with ZL, who not only
 provided support but also invited her to community events organized by
 YIT SAMH. These interactions became a source of strength and connection
 for Shannon, helping her to engage meaningfully with others.</p>
-<p><strong>"The validation and support that I received from YIT SAMH has tremendously improved my life.”</strong>
-</p>
+<h3><strong>"The validation and support that I received from YIT SAMH has tremendously improved my life.”</strong></h3>
 <p>Through counseling, Shannon learned to identify the symptoms of her anxiety
 attacks and developed techniques to manage them.</p>
 <p>Today, Shannon continues her journey of healing, embracing her identity
