@@ -39,3 +39,5 @@ be struggling, reminding them that they are not alone and that help is
 available. "If you feel it, it’s real. It’s okay to reach out, to seek
 support. You don’t have to do it alone," she encourages, a beacon of hope
 for those still lost in the darkness.</p>
+<p><em>Got a story? Share it with us at <a href="mailto:aicrealspace.sg@gmail.com" rel="noopener noreferrer nofollow" target="_blank"><u>aicrealspace.sg@gmail.com</u></a> to lend strength to someone in need.</em>
+</p>
