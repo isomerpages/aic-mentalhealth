@@ -22,8 +22,7 @@ support.</div>
 </div>
 <h3><strong>Want to Learn More?</strong></h3>
 <p>Keen to learn the signs and symptoms of mental health conditions and how
-to support persons with mental health issues? Learn at your own pace via
-e-learning.</p>
+to support persons with mental health issues? <a href="http://www.for.sg/mh-elearning" rel="noopener nofollow" target="_blank">Learn at your own pace via e-learning</a>.</p>
 <p>Follow these links to understand more about mental health.</p>
 <ul data-tight="true" class="tight">
 <li>
