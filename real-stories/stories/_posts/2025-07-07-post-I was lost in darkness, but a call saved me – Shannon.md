@@ -8,6 +8,12 @@ description: Shannon's world began to crumble in 2016 with the death of her
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Shannon's soft toys and bunny" src="/images/shannons_safe_space.jpg">
+</div>
+<p><em>Shannon’s safe space? Soft fur and quiet moments with her auntie’s pet bunnies.</em>
+</p>
 <p>Shannon's world began to crumble in 2016 with the death of her grandfather,
 the one person who had always been her confidante and protector. His absence
 left a void that felt insurmountable.</p>
