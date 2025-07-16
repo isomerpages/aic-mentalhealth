@@ -9,9 +9,9 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Illustration of a girl with sunflowers and rainbow emitting positive vibes" src="/images/what_keeps_hk_going.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="Illustration of a girl with sunflowers and rainbow emitting positive vibes" src="/images/what_keeps_hk_going.jpg">
 </div>
-<p><em>What keeps HK going? The ones she loves, and the quiet strength to look ahead to tomorrows. </em>
+<p><em>What keeps HK going? The ones she loves, and the quiet strength to look ahead to tomorrows.</em>
 </p>
 <p>“I didn’t struggle with mental health—or so it seemed.”, thought HK.</p>
 <p>When HK began her university journey in 2022, the excitement quickly turned
